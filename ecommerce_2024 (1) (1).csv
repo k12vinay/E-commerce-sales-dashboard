@@ -1,0 +1,1001 @@
+Order ID,Date,Customer Segment,Product Category,Units Sold,Unit Price,Total Sales,Payment Method,Region
+ORD8151,16-09-2024,Corporate,Furniture,19,151.17,2872.23,PayPal,New York
+ORD5571,17-01-2024,Consumer,Sports,22,281.34,6189.48,Bitcoin,Georgia
+ORD6967,18-03-2024,Small Business,Toys,23,216.16,4971.68,Bank Transfer,Texas
+ORD1290,15-08-2023,Corporate,Fashion,12,381.71,4580.52,Debit Card,New York
+ORD1635,05-04-2023,Consumer,Books,14,389.22,5449.08,Cash,Florida
+ORD2613,12-06-2024,Consumer,Groceries,22,245.29,5396.38,Cash,New York
+ORD3155,08-10-2023,Small Business,Fashion,19,344.04,6536.76,Bank Transfer,Washington
+ORD4960,28-05-2023,Corporate,Books,23,288.71,6640.33,Debit Card,California
+ORD2726,01-01-2024,Small Business,Furniture,2,486.24,972.48,Cash,Georgia
+ORD8938,23-02-2023,Small Business,Toys,8,96.77,774.16,Bank Transfer,Washington
+ORD5086,02-10-2023,Home Office,Fashion,5,377.76,1888.8,Bitcoin,Florida
+ORD9385,24-11-2024,Consumer,Books,16,354.03,5664.48,Cash,Washington
+ORD9120,05-12-2023,Consumer,Beauty,1,132.67,132.67,Bank Transfer,Washington
+ORD4389,13-10-2024,Small Business,Electronics,24,143.84,3452.16,Credit Card,Nevada
+ORD5568,11-11-2023,Consumer,Books,24,229.97,5519.28,Cash,Florida
+ORD2039,27-06-2024,Small Business,Toys,18,46.91,844.38,Debit Card,Nevada
+ORD8548,01-04-2023,Corporate,Fashion,19,293.73,5580.87,Cash,Washington
+ORD1272,12-02-2023,Consumer,Fashion,10,377.63,3776.3,Bank Transfer,Georgia
+ORD5016,01-07-2024,Consumer,Sports,22,165.36,3637.92,Debit Card,Washington
+ORD2552,28-05-2023,Consumer,Fashion,25,386.22,9655.5,Debit Card,Florida
+ORD7214,02-10-2024,Corporate,Electronics,4,490.06,1960.24,Cash,Nevada
+ORD2350,15-03-2024,Home Office,Electronics,23,106.99,2460.77,Debit Card,New York
+ORD5953,30-07-2023,Corporate,Toys,12,63.77,765.24,Cash,New York
+ORD7149,13-06-2023,Home Office,Fashion,12,22.31,267.72,PayPal,New York
+ORD6440,26-04-2023,Corporate,Electronics,21,189.34,3976.14,Debit Card,Washington
+ORD1703,18-10-2023,Small Business,Groceries,4,43.86,175.44,Bitcoin,Nevada
+ORD2451,17-01-2023,Corporate,Toys,8,204.99,1639.92,PayPal,Texas
+ORD9019,09-12-2024,Consumer,Electronics,1,50.96,50.96,Debit Card,Florida
+ORD4784,22-02-2023,Small Business,Toys,25,238.21,5955.25,Debit Card,Texas
+ORD1524,17-02-2023,Small Business,Books,5,322.91,1614.55,Cash,Nevada
+ORD7854,09-04-2024,Home Office,Beauty,15,136.95,2054.25,Bank Transfer,Washington
+ORD8649,07-03-2024,Consumer,Beauty,4,288.92,1155.68,Bitcoin,New York
+ORD8899,21-10-2023,Home Office,Groceries,8,190.28,1522.24,Bitcoin,Georgia
+ORD4340,02-05-2023,Corporate,Furniture,18,227.47,4094.46,Debit Card,California
+ORD3214,29-02-2024,Corporate,Sports,11,294.67,3241.37,Cash,Illinois
+ORD2579,21-11-2024,Home Office,Furniture,3,460.39,1381.17,Credit Card,Texas
+ORD8866,08-09-2024,Small Business,Sports,17,47.92,814.64,Credit Card,California
+ORD2357,15-06-2023,Small Business,Furniture,9,495.35,4458.15,PayPal,California
+ORD6201,09-10-2024,Consumer,Toys,1,426.53,426.53,Credit Card,Georgia
+ORD6504,19-12-2024,Home Office,Sports,20,179.5,3590,PayPal,Georgia
+ORD3656,28-08-2024,Small Business,Books,21,125.65,2638.65,Bank Transfer,Florida
+ORD6877,27-01-2023,Small Business,Furniture,1,280.26,280.26,Credit Card,Florida
+ORD1959,02-06-2024,Consumer,Books,5,348.65,1743.25,Bitcoin,Illinois
+ORD4691,18-11-2023,Small Business,Toys,13,334.48,4348.24,Bank Transfer,Washington
+ORD4436,12-02-2023,Home Office,Furniture,15,145.89,2188.35,Bitcoin,Illinois
+ORD6175,18-07-2024,Consumer,Fashion,8,331.49,2651.92,Debit Card,Georgia
+ORD8999,01-07-2024,Consumer,Books,12,316.95,3803.4,Debit Card,California
+ORD3300,01-01-2024,Small Business,Toys,15,239.21,3588.15,Credit Card,California
+ORD2481,24-09-2023,Consumer,Groceries,3,451.18,1353.54,PayPal,Florida
+ORD1113,23-09-2023,Corporate,Beauty,5,256,1280,Cash,Georgia
+ORD8768,05-03-2023,Small Business,Electronics,5,124.43,622.15,Credit Card,Washington
+ORD4501,29-03-2023,Consumer,Fashion,15,86.64,1299.6,Credit Card,Georgia
+ORD7426,31-03-2024,Corporate,Fashion,20,445.48,8909.6,Bank Transfer,Washington
+ORD3897,27-02-2023,Home Office,Beauty,7,284.53,1991.71,Cash,Washington
+ORD4223,23-05-2024,Home Office,Books,8,195.84,1566.72,Bitcoin,Nevada
+ORD7097,18-02-2023,Home Office,Sports,8,80.14,641.12,Credit Card,Nevada
+ORD3494,13-05-2023,Home Office,Beauty,12,355.6,4267.2,Bank Transfer,Georgia
+ORD8208,19-10-2023,Corporate,Sports,4,467.85,1871.4,Bitcoin,Texas
+ORD3375,21-09-2023,Home Office,Sports,10,314.23,3142.3,Cash,Texas
+ORD3889,27-02-2023,Consumer,Fashion,2,316.94,633.88,PayPal,Florida
+ORD2668,13-06-2024,Small Business,Toys,7,476.89,3338.23,Credit Card,Nevada
+ORD7109,31-05-2024,Home Office,Books,1,14.42,14.42,Bank Transfer,Florida
+ORD1056,17-04-2023,Consumer,Groceries,20,401.94,8038.8,Credit Card,Washington
+ORD6659,20-03-2023,Corporate,Fashion,21,265.24,5570.04,Bank Transfer,Florida
+ORD3108,05-09-2024,Small Business,Books,6,356.67,2140.02,Cash,Georgia
+ORD8245,28-11-2023,Consumer,Groceries,15,82.86,1242.9,Credit Card,California
+ORD5202,20-06-2023,Corporate,Groceries,6,432.46,2594.76,Cash,Nevada
+ORD7415,05-07-2023,Small Business,Fashion,9,88.44,795.96,Cash,Georgia
+ORD8067,29-09-2023,Consumer,Books,23,13.82,317.86,Bitcoin,Nevada
+ORD8288,08-04-2024,Small Business,Electronics,23,491.62,11307.26,Debit Card,Nevada
+ORD2434,14-07-2023,Small Business,Furniture,23,376.48,8659.04,Debit Card,Nevada
+ORD7590,03-04-2023,Consumer,Sports,15,124.02,1860.3,Credit Card,Nevada
+ORD2142,07-10-2023,Home Office,Groceries,20,31.45,629,PayPal,California
+ORD9176,29-04-2023,Small Business,Fashion,25,496.19,12404.75,Cash,Illinois
+ORD9062,05-06-2024,Consumer,Books,13,342.44,4451.72,Credit Card,Washington
+ORD6229,28-09-2023,Home Office,Groceries,17,473.57,8050.69,Credit Card,Florida
+ORD7999,08-10-2023,Consumer,Groceries,6,360.83,2164.98,Debit Card,Texas
+ORD6401,24-04-2023,Small Business,Fashion,9,225.9,2033.1,Cash,Florida
+ORD2564,22-10-2024,Corporate,Furniture,5,238.04,1190.2,PayPal,New York
+ORD8181,12-12-2023,Corporate,Electronics,14,141.38,1979.32,Debit Card,Washington
+ORD8222,30-01-2024,Corporate,Books,10,220.95,2209.5,PayPal,Nevada
+ORD9093,18-03-2024,Consumer,Groceries,17,390.93,6645.81,Credit Card,New York
+ORD2617,22-02-2024,Corporate,Groceries,24,318.88,7653.12,Debit Card,California
+ORD6159,01-10-2024,Consumer,Toys,12,454.14,5449.68,Credit Card,New York
+ORD9542,12-08-2023,Consumer,Beauty,14,496.8,6955.2,Debit Card,Florida
+ORD4599,20-02-2024,Corporate,Sports,8,118.3,946.4,Credit Card,New York
+ORD8139,06-02-2023,Small Business,Groceries,18,479.92,8638.56,PayPal,Illinois
+ORD9984,07-08-2024,Corporate,Electronics,7,107.54,752.78,Debit Card,Washington
+ORD1514,15-09-2023,Small Business,Toys,8,77.52,620.16,Cash,Nevada
+ORD4724,25-07-2023,Consumer,Sports,20,60.47,1209.4,Bank Transfer,New York
+ORD2352,01-05-2024,Small Business,Groceries,14,85.99,1203.86,Credit Card,Texas
+ORD4548,15-07-2023,Corporate,Books,12,55.74,668.88,Cash,Illinois
+ORD4549,11-02-2023,Home Office,Toys,2,286.11,572.22,Bitcoin,Washington
+ORD7950,25-03-2023,Home Office,Fashion,22,489.08,10759.76,Bank Transfer,Georgia
+ORD1019,25-11-2024,Corporate,Fashion,14,102.79,1439.06,Bitcoin,Texas
+ORD1775,04-08-2023,Small Business,Beauty,11,493.85,5432.35,Cash,New York
+ORD3089,27-03-2023,Consumer,Beauty,13,389.27,5060.51,Debit Card,Florida
+ORD5560,01-07-2023,Corporate,Electronics,24,230.54,5532.96,Cash,Illinois
+ORD2899,26-09-2023,Consumer,Beauty,24,304.62,7310.88,Bank Transfer,California
+ORD5258,16-09-2024,Consumer,Fashion,25,421.35,10533.75,Credit Card,Illinois
+ORD6133,30-08-2023,Home Office,Groceries,21,354.25,7439.25,Bitcoin,Washington
+ORD3664,14-12-2023,Home Office,Fashion,18,431.09,7759.62,Debit Card,Nevada
+ORD9135,26-08-2024,Home Office,Groceries,19,320.84,6095.96,Debit Card,Washington
+ORD5430,11-04-2024,Corporate,Groceries,19,141.46,2687.74,Bitcoin,Illinois
+ORD1693,11-08-2023,Corporate,Groceries,22,431.54,9493.88,Debit Card,Illinois
+ORD4751,04-03-2024,Consumer,Sports,5,421.53,2107.65,PayPal,Nevada
+ORD8505,27-02-2023,Small Business,Furniture,9,229.78,2068.02,PayPal,New York
+ORD7694,29-02-2024,Small Business,Beauty,17,449.59,7643.03,Credit Card,California
+ORD6462,17-11-2023,Small Business,Beauty,11,249.81,2747.91,Credit Card,Texas
+ORD3886,28-07-2024,Small Business,Beauty,13,453.63,5897.19,Bitcoin,Florida
+ORD8006,14-09-2023,Consumer,Beauty,1,495.94,495.94,Bank Transfer,Florida
+ORD7038,26-08-2024,Home Office,Electronics,14,242.58,3396.12,Bank Transfer,Georgia
+ORD5820,06-01-2023,Home Office,Groceries,7,291.98,2043.86,Bank Transfer,Texas
+ORD4122,24-08-2024,Small Business,Beauty,18,235.64,4241.52,Bank Transfer,California
+ORD7331,18-09-2023,Small Business,Toys,1,148.59,148.59,Debit Card,New York
+ORD7794,15-05-2024,Consumer,Toys,3,458.18,1374.54,Debit Card,Florida
+ORD7626,18-05-2024,Consumer,Toys,10,225.61,2256.1,Bank Transfer,Georgia
+ORD6908,13-03-2024,Corporate,Electronics,5,27.98,139.9,Credit Card,Washington
+ORD7425,23-09-2023,Small Business,Groceries,11,286.72,3153.92,Credit Card,Florida
+ORD8365,01-08-2024,Consumer,Furniture,18,253.65,4565.7,Bank Transfer,Texas
+ORD7918,20-04-2023,Home Office,Furniture,22,156.04,3432.88,Bank Transfer,Nevada
+ORD7051,05-02-2023,Corporate,Groceries,3,78.39,235.17,Credit Card,Texas
+ORD1523,16-10-2024,Corporate,Electronics,7,427.57,2992.99,Bank Transfer,Washington
+ORD3629,03-06-2024,Corporate,Sports,7,27.17,190.19,Credit Card,Illinois
+ORD6898,01-10-2023,Home Office,Beauty,7,283.01,1981.07,Cash,Georgia
+ORD4059,17-12-2023,Home Office,Groceries,9,46.03,414.27,Bitcoin,Florida
+ORD3404,17-10-2024,Consumer,Sports,13,389.44,5062.72,Credit Card,Illinois
+ORD8635,13-01-2023,Home Office,Toys,22,310.44,6829.68,Cash,New York
+ORD9903,15-02-2023,Corporate,Furniture,8,393.21,3145.68,PayPal,Florida
+ORD6442,08-09-2024,Home Office,Furniture,8,142.76,1142.08,Credit Card,Nevada
+ORD7567,02-09-2023,Small Business,Fashion,24,451.04,10824.96,Debit Card,Washington
+ORD8795,06-07-2024,Small Business,Fashion,19,49.27,936.13,Credit Card,California
+ORD3394,02-08-2023,Corporate,Groceries,16,365.54,5848.64,Bitcoin,Florida
+ORD3199,07-02-2023,Consumer,Sports,13,335.05,4355.65,Bank Transfer,Washington
+ORD7793,14-12-2023,Consumer,Furniture,8,39.15,313.2,PayPal,Nevada
+ORD5187,13-03-2023,Corporate,Toys,7,44.13,308.91,PayPal,Texas
+ORD1918,12-08-2024,Consumer,Electronics,24,334.8,8035.2,PayPal,Illinois
+ORD8671,04-01-2023,Small Business,Groceries,5,355.77,1778.85,Bank Transfer,California
+ORD5473,01-12-2023,Corporate,Books,16,405.54,6488.64,PayPal,New York
+ORD8049,01-02-2023,Consumer,Sports,22,38.48,846.56,Bank Transfer,Illinois
+ORD5242,27-08-2024,Home Office,Electronics,24,439.19,10540.56,Credit Card,Nevada
+ORD2735,08-12-2024,Home Office,Beauty,15,272.3,4084.5,Debit Card,Illinois
+ORD3764,20-02-2023,Small Business,Furniture,14,65.86,922.04,Bank Transfer,Florida
+ORD8972,05-07-2024,Home Office,Groceries,9,15.35,138.15,PayPal,California
+ORD4187,14-12-2024,Consumer,Electronics,10,85.09,850.9,Bank Transfer,Illinois
+ORD2962,07-03-2024,Consumer,Groceries,24,188.55,4525.2,Cash,Washington
+ORD1203,17-11-2024,Corporate,Groceries,25,133.58,3339.5,Debit Card,Texas
+ORD5001,31-10-2023,Corporate,Electronics,4,82.72,330.88,Cash,Washington
+ORD1557,25-05-2024,Corporate,Groceries,23,331.7,7629.1,Bitcoin,Illinois
+ORD4357,02-01-2024,Small Business,Sports,5,30.62,153.1,Bank Transfer,Nevada
+ORD6092,02-08-2023,Home Office,Electronics,3,214.4,643.2,PayPal,Illinois
+ORD7977,03-09-2023,Corporate,Sports,20,121.8,2436,PayPal,Florida
+ORD9038,29-05-2024,Corporate,Electronics,9,389.16,3502.44,Debit Card,Florida
+ORD6835,25-11-2024,Home Office,Electronics,6,150.46,902.76,Bank Transfer,Texas
+ORD5494,01-03-2024,Home Office,Toys,20,130.69,2613.8,Bitcoin,Florida
+ORD3877,02-09-2024,Corporate,Sports,17,317.59,5399.03,Bank Transfer,Florida
+ORD7820,04-06-2023,Home Office,Furniture,14,341.31,4778.34,PayPal,California
+ORD7329,22-11-2023,Home Office,Beauty,20,12.43,248.6,Credit Card,Illinois
+ORD4089,20-01-2024,Corporate,Sports,4,110.67,442.68,Credit Card,Nevada
+ORD2502,11-07-2023,Consumer,Electronics,7,71.86,503.02,Bank Transfer,Washington
+ORD8593,05-07-2024,Corporate,Furniture,21,64.14,1346.94,Bitcoin,Washington
+ORD8951,29-10-2023,Consumer,Books,16,293.34,4693.44,Bank Transfer,Nevada
+ORD7322,12-06-2024,Corporate,Furniture,8,73.65,589.2,Credit Card,Texas
+ORD6222,06-09-2023,Consumer,Beauty,12,375.72,4508.64,Bitcoin,Washington
+ORD2359,24-11-2024,Corporate,Electronics,2,331.81,663.62,Credit Card,Illinois
+ORD5451,06-05-2023,Corporate,Toys,5,84.47,422.35,Bitcoin,New York
+ORD9920,01-03-2023,Corporate,Toys,24,491.62,11798.88,Credit Card,Florida
+ORD8806,27-09-2024,Corporate,Electronics,12,356.4,4276.8,Bitcoin,Nevada
+ORD8367,23-06-2024,Corporate,Toys,17,312.6,5314.2,Debit Card,California
+ORD5425,15-10-2023,Home Office,Groceries,16,399.15,6386.4,Debit Card,New York
+ORD6407,30-10-2024,Home Office,Books,18,410.88,7395.84,Credit Card,Florida
+ORD6368,24-09-2024,Small Business,Groceries,8,96.78,774.24,Bank Transfer,Washington
+ORD5323,30-11-2024,Small Business,Toys,7,122.62,858.34,Bank Transfer,New York
+ORD5758,12-12-2024,Small Business,Fashion,4,278.74,1114.96,Cash,Texas
+ORD5503,17-06-2024,Consumer,Toys,1,88.07,88.07,Credit Card,Texas
+ORD5164,28-05-2024,Home Office,Sports,6,274.4,1646.4,Cash,Texas
+ORD7175,16-02-2023,Home Office,Beauty,19,200.38,3807.22,Bitcoin,Florida
+ORD2655,10-07-2023,Corporate,Beauty,17,138.77,2359.09,Bank Transfer,Florida
+ORD2200,22-04-2023,Home Office,Electronics,22,202.56,4456.32,Bitcoin,New York
+ORD5366,08-10-2024,Consumer,Groceries,4,134.2,536.8,Credit Card,Texas
+ORD1399,01-02-2024,Consumer,Furniture,1,179.51,179.51,Credit Card,Texas
+ORD1213,16-03-2023,Corporate,Furniture,5,195.94,979.7,PayPal,Illinois
+ORD4253,05-02-2024,Home Office,Furniture,23,372.06,8557.38,Cash,Illinois
+ORD6231,30-12-2024,Small Business,Toys,6,119.51,717.06,Cash,Nevada
+ORD8024,11-12-2023,Corporate,Beauty,21,333.49,7003.29,Cash,New York
+ORD3066,14-01-2023,Small Business,Books,10,246,2460,Bitcoin,Illinois
+ORD5922,13-06-2023,Home Office,Toys,20,407.52,8150.4,Cash,New York
+ORD7120,24-11-2023,Home Office,Beauty,9,237.26,2135.34,Cash,Georgia
+ORD7257,20-05-2024,Home Office,Furniture,4,347.64,1390.56,Bank Transfer,Nevada
+ORD8432,28-08-2024,Small Business,Beauty,1,413.99,413.99,Bank Transfer,New York
+ORD8198,04-11-2024,Corporate,Sports,21,169.61,3561.81,Bitcoin,Nevada
+ORD7232,23-06-2024,Small Business,Furniture,23,182.83,4205.09,Debit Card,Washington
+ORD6513,15-06-2023,Home Office,Toys,16,83.75,1340,Cash,Washington
+ORD6616,14-01-2023,Small Business,Fashion,15,307.03,4605.45,Bank Transfer,Florida
+ORD6624,29-04-2024,Consumer,Groceries,4,106.35,425.4,PayPal,Illinois
+ORD7725,06-06-2024,Home Office,Toys,20,151.86,3037.2,Credit Card,Texas
+ORD6502,10-12-2023,Small Business,Sports,17,140.64,2390.88,Bank Transfer,Georgia
+ORD9255,09-01-2023,Small Business,Fashion,13,102.52,1332.76,Cash,Nevada
+ORD5062,04-07-2024,Consumer,Sports,16,235.16,3762.56,Bank Transfer,Washington
+ORD1653,25-11-2023,Home Office,Fashion,9,178.3,1604.7,Bank Transfer,Washington
+ORD5686,07-03-2023,Consumer,Electronics,6,207.65,1245.9,Debit Card,Texas
+ORD7516,04-04-2024,Small Business,Groceries,3,294.57,883.71,Cash,Illinois
+ORD8958,28-05-2023,Corporate,Sports,22,47.25,1039.5,Debit Card,California
+ORD8773,20-11-2024,Home Office,Books,25,203.28,5082,Bitcoin,Georgia
+ORD8887,06-02-2024,Corporate,Electronics,1,244.13,244.13,Bank Transfer,New York
+ORD2554,09-05-2023,Home Office,Toys,13,458.52,5960.76,PayPal,Illinois
+ORD8794,04-12-2023,Corporate,Groceries,24,85.65,2055.6,Bank Transfer,Texas
+ORD5210,26-05-2024,Corporate,Fashion,20,198.23,3964.6,Debit Card,California
+ORD9463,13-02-2024,Consumer,Sports,19,165.76,3149.44,PayPal,New York
+ORD9827,14-01-2023,Small Business,Furniture,21,297.69,6251.49,Bank Transfer,New York
+ORD5578,10-07-2024,Corporate,Beauty,9,175.13,1576.17,Debit Card,Georgia
+ORD9321,09-10-2023,Small Business,Sports,4,190.03,760.12,Debit Card,California
+ORD4197,26-01-2024,Home Office,Furniture,18,385.95,6947.1,Bitcoin,Nevada
+ORD2191,05-07-2023,Corporate,Electronics,22,138.37,3044.14,Debit Card,Nevada
+ORD9371,22-09-2023,Small Business,Beauty,18,303.05,5454.9,Cash,New York
+ORD4620,28-11-2023,Corporate,Sports,15,18.29,274.35,PayPal,Texas
+ORD8210,30-03-2024,Corporate,Beauty,23,6.32,145.36,Debit Card,Washington
+ORD1684,01-09-2024,Small Business,Beauty,2,492.08,984.16,Bitcoin,Georgia
+ORD8475,01-12-2024,Home Office,Electronics,2,17.93,35.86,Debit Card,Washington
+ORD3212,12-11-2023,Small Business,Fashion,15,52.52,787.8,Debit Card,California
+ORD1379,26-06-2023,Consumer,Fashion,9,375.73,3381.57,Credit Card,New York
+ORD5823,01-06-2024,Consumer,Groceries,23,86.58,1991.34,Bank Transfer,Texas
+ORD7620,19-04-2023,Small Business,Beauty,23,198.83,4573.09,Bank Transfer,New York
+ORD2444,15-10-2023,Home Office,Beauty,9,53.26,479.34,PayPal,Florida
+ORD7258,17-04-2023,Corporate,Books,9,43.42,390.78,Cash,Illinois
+ORD2206,08-08-2023,Home Office,Books,24,268.38,6441.12,Bitcoin,Georgia
+ORD1037,09-12-2024,Small Business,Beauty,20,266.16,5323.2,Bank Transfer,Nevada
+ORD5868,04-09-2023,Consumer,Books,3,331.56,994.68,Cash,Washington
+ORD8440,12-05-2023,Small Business,Toys,21,353.31,7419.51,Bank Transfer,New York
+ORD2667,04-10-2023,Small Business,Toys,18,163.45,2942.1,PayPal,Nevada
+ORD6546,09-11-2024,Corporate,Electronics,19,18.16,345.04,Credit Card,Florida
+ORD8142,24-10-2024,Consumer,Groceries,14,61.27,857.78,Credit Card,Nevada
+ORD3425,01-02-2023,Home Office,Groceries,8,116.15,929.2,Debit Card,Washington
+ORD7706,04-07-2024,Corporate,Electronics,5,321.76,1608.8,Debit Card,Texas
+ORD7367,23-04-2024,Small Business,Furniture,25,476.43,11910.75,Bitcoin,New York
+ORD6203,13-03-2023,Small Business,Beauty,7,219.67,1537.69,Debit Card,New York
+ORD7341,17-12-2023,Small Business,Fashion,1,57.43,57.43,Debit Card,New York
+ORD8684,05-11-2023,Corporate,Fashion,11,252.51,2777.61,Bitcoin,Georgia
+ORD9890,19-07-2023,Consumer,Furniture,12,333.57,4002.84,Cash,Florida
+ORD5056,19-01-2024,Corporate,Electronics,5,476.12,2380.6,Bitcoin,Illinois
+ORD8093,01-07-2023,Small Business,Beauty,25,161.17,4029.25,Cash,Illinois
+ORD9277,30-09-2024,Home Office,Toys,4,160.66,642.64,Credit Card,California
+ORD3845,05-12-2023,Home Office,Groceries,1,138.7,138.7,Debit Card,Illinois
+ORD5649,31-03-2024,Consumer,Beauty,15,427.81,6417.15,Bitcoin,New York
+ORD9908,15-12-2024,Corporate,Books,11,355.12,3906.32,Credit Card,Florida
+ORD7791,11-01-2024,Small Business,Beauty,15,462.67,6940.05,PayPal,Illinois
+ORD6819,28-01-2023,Corporate,Groceries,22,89.99,1979.78,Bitcoin,New York
+ORD1468,22-05-2024,Corporate,Electronics,24,8.52,204.48,Bitcoin,Georgia
+ORD5159,04-06-2023,Home Office,Electronics,1,152.8,152.8,PayPal,Illinois
+ORD4220,13-02-2024,Consumer,Fashion,8,213.31,1706.48,PayPal,Florida
+ORD9413,08-08-2024,Corporate,Beauty,24,471.34,11312.16,Bank Transfer,California
+ORD1978,19-08-2024,Small Business,Toys,3,102.49,307.47,Credit Card,Washington
+ORD4743,16-11-2023,Consumer,Beauty,14,446.92,6256.88,PayPal,Illinois
+ORD5171,02-01-2024,Consumer,Beauty,16,410.62,6569.92,Cash,Texas
+ORD8988,25-11-2023,Small Business,Fashion,10,113.88,1138.8,PayPal,Nevada
+ORD3393,03-07-2024,Home Office,Toys,21,107.45,2256.45,PayPal,California
+ORD4438,22-07-2023,Home Office,Sports,2,9.43,18.86,Bank Transfer,Florida
+ORD4212,19-03-2023,Home Office,Beauty,12,61.89,742.68,Credit Card,New York
+ORD7889,18-05-2024,Corporate,Toys,10,170.17,1701.7,Credit Card,Nevada
+ORD5034,07-07-2024,Home Office,Fashion,8,151.54,1212.32,Bitcoin,New York
+ORD5023,30-11-2024,Small Business,Furniture,23,444.21,10216.83,Bitcoin,Texas
+ORD3328,20-10-2023,Corporate,Books,22,65.42,1439.24,Cash,California
+ORD7362,17-03-2023,Small Business,Fashion,16,93,1488,Cash,Nevada
+ORD5984,25-01-2024,Corporate,Beauty,10,117.77,1177.7,Debit Card,Washington
+ORD2012,26-09-2024,Corporate,Furniture,9,281.9,2537.1,PayPal,Georgia
+ORD2052,02-03-2023,Home Office,Groceries,24,434.51,10428.24,Bank Transfer,New York
+ORD7537,04-03-2023,Small Business,Beauty,8,439.15,3513.2,Bank Transfer,California
+ORD3730,02-11-2024,Small Business,Fashion,16,101.9,1630.4,Credit Card,Illinois
+ORD5778,18-11-2024,Corporate,Books,15,405.38,6080.7,Cash,Georgia
+ORD7727,16-12-2023,Corporate,Toys,12,124.43,1493.16,Credit Card,Illinois
+ORD2453,16-04-2023,Consumer,Books,22,299.75,6594.5,Bitcoin,Nevada
+ORD7324,10-05-2023,Corporate,Fashion,14,78.59,1100.26,Bank Transfer,New York
+ORD7698,09-09-2023,Small Business,Fashion,7,354.97,2484.79,Credit Card,Nevada
+ORD7677,05-01-2024,Small Business,Fashion,3,415.03,1245.09,Bank Transfer,Texas
+ORD4855,24-09-2023,Corporate,Books,21,353.54,7424.34,Cash,Washington
+ORD2467,13-03-2023,Corporate,Groceries,3,10.06,30.18,Cash,Florida
+ORD8568,24-11-2023,Corporate,Books,18,84.56,1522.08,PayPal,New York
+ORD4071,03-03-2024,Small Business,Furniture,17,426.6,7252.2,Debit Card,Illinois
+ORD3616,03-09-2024,Consumer,Groceries,1,451.88,451.88,Bank Transfer,Georgia
+ORD4488,09-04-2023,Corporate,Groceries,10,288.36,2883.6,Credit Card,Georgia
+ORD3890,09-12-2024,Corporate,Sports,9,47.26,425.34,Cash,Nevada
+ORD7197,19-03-2023,Small Business,Electronics,5,475.28,2376.4,Credit Card,Texas
+ORD7787,29-11-2023,Consumer,Furniture,5,479.57,2397.85,Bitcoin,New York
+ORD7411,03-08-2023,Consumer,Furniture,2,468.44,936.88,Debit Card,California
+ORD1214,03-06-2024,Corporate,Beauty,7,408.64,2860.48,PayPal,Nevada
+ORD6815,15-02-2024,Corporate,Books,16,439.44,7031.04,Credit Card,Washington
+ORD3458,16-10-2023,Corporate,Sports,22,227.24,4999.28,Credit Card,Texas
+ORD1286,04-01-2023,Home Office,Furniture,11,107.43,1181.73,Debit Card,Nevada
+ORD7152,30-01-2024,Home Office,Furniture,5,445.4,2227,Bitcoin,Washington
+ORD5178,03-08-2024,Small Business,Groceries,2,55.43,110.86,Bitcoin,Nevada
+ORD8935,11-05-2024,Corporate,Furniture,9,212.58,1913.22,Bitcoin,New York
+ORD2993,01-10-2023,Home Office,Furniture,4,18.87,75.48,Debit Card,Georgia
+ORD8317,11-08-2024,Corporate,Beauty,18,368.44,6631.92,Credit Card,Washington
+ORD5148,17-03-2023,Consumer,Groceries,9,313.58,2822.22,Bank Transfer,Texas
+ORD2393,03-01-2024,Corporate,Furniture,4,297.27,1189.08,Bank Transfer,Nevada
+ORD5555,20-08-2024,Small Business,Fashion,12,314.06,3768.72,Credit Card,Illinois
+ORD2938,08-06-2023,Consumer,Electronics,16,169.82,2717.12,Bank Transfer,Nevada
+ORD3512,08-06-2024,Small Business,Furniture,2,380.35,760.7,PayPal,California
+ORD7368,14-11-2024,Small Business,Toys,10,276.69,2766.9,PayPal,California
+ORD2112,13-11-2023,Consumer,Electronics,15,324.27,4864.05,Debit Card,Texas
+ORD7093,06-10-2023,Consumer,Books,12,202.49,2429.88,Cash,New York
+ORD2511,05-12-2023,Consumer,Toys,22,352.89,7763.58,Cash,Georgia
+ORD9128,29-11-2023,Consumer,Furniture,14,430.99,6033.86,Debit Card,Florida
+ORD9223,27-09-2023,Consumer,Sports,7,47.14,329.98,Debit Card,Texas
+ORD4666,28-01-2024,Corporate,Electronics,11,185.32,2038.52,Debit Card,Texas
+ORD1432,08-02-2024,Corporate,Beauty,1,261.43,261.43,Bitcoin,New York
+ORD4594,18-03-2023,Corporate,Beauty,15,233,3495,Bank Transfer,Georgia
+ORD6365,02-05-2023,Consumer,Furniture,13,265.22,3447.86,PayPal,Florida
+ORD1985,04-10-2024,Home Office,Books,25,306.49,7662.25,Debit Card,Washington
+ORD1163,24-04-2023,Small Business,Sports,11,85.52,940.72,PayPal,Washington
+ORD6480,17-08-2024,Home Office,Groceries,5,405.49,2027.45,Cash,Texas
+ORD1039,01-03-2023,Small Business,Toys,14,305.98,4283.72,PayPal,Texas
+ORD9089,06-04-2023,Home Office,Furniture,18,185.1,3331.8,Cash,New York
+ORD5959,03-12-2023,Home Office,Sports,25,197.77,4944.25,Bank Transfer,Washington
+ORD3368,04-11-2023,Small Business,Electronics,16,18.91,302.56,Debit Card,California
+ORD3419,19-01-2023,Consumer,Furniture,19,295.45,5613.55,Cash,Illinois
+ORD5736,30-12-2023,Home Office,Electronics,24,435.63,10455.12,Debit Card,New York
+ORD5196,12-08-2024,Small Business,Beauty,21,214.75,4509.75,Bank Transfer,Illinois
+ORD9203,18-06-2023,Consumer,Beauty,8,257.3,2058.4,Cash,Texas
+ORD6370,23-05-2024,Small Business,Toys,24,232.92,5590.08,Cash,Florida
+ORD9843,18-01-2023,Small Business,Electronics,9,232.05,2088.45,Credit Card,Texas
+ORD7636,27-11-2024,Home Office,Fashion,7,316.25,2213.75,PayPal,Florida
+ORD6982,03-04-2024,Small Business,Beauty,6,247.98,1487.88,Credit Card,Washington
+ORD2298,29-01-2023,Consumer,Fashion,9,147.87,1330.83,Bank Transfer,Texas
+ORD7809,19-11-2024,Corporate,Books,12,198.15,2377.8,Bank Transfer,Illinois
+ORD8402,12-11-2023,Small Business,Books,14,169.37,2371.18,Debit Card,Texas
+ORD4476,27-05-2023,Consumer,Sports,3,386.51,1159.53,Cash,Illinois
+ORD6537,08-06-2024,Small Business,Fashion,16,14.89,238.24,Credit Card,California
+ORD1198,13-10-2024,Consumer,Books,9,142.26,1280.34,Bitcoin,Nevada
+ORD1057,16-06-2024,Corporate,Electronics,24,395.16,9483.84,Credit Card,Georgia
+ORD1570,19-06-2023,Small Business,Fashion,21,80.72,1695.12,PayPal,Texas
+ORD9559,01-04-2023,Small Business,Toys,16,428.48,6855.68,Debit Card,Washington
+ORD1082,26-12-2024,Home Office,Furniture,3,419.92,1259.76,Cash,Texas
+ORD6405,22-11-2024,Home Office,Furniture,3,416.58,1249.74,Debit Card,Washington
+ORD5499,26-01-2024,Small Business,Groceries,13,347.46,4516.98,Debit Card,Illinois
+ORD4738,12-03-2024,Small Business,Books,14,269.55,3773.7,Cash,Texas
+ORD6143,26-08-2024,Small Business,Furniture,23,261.96,6025.08,Debit Card,California
+ORD6773,15-12-2024,Corporate,Furniture,13,176.17,2290.21,Debit Card,Nevada
+ORD9675,30-05-2024,Consumer,Electronics,20,167.4,3348,Bank Transfer,Florida
+ORD8217,07-05-2023,Consumer,Sports,15,71.76,1076.4,Debit Card,Florida
+ORD5406,18-01-2024,Consumer,Books,24,20.42,490.08,Debit Card,California
+ORD1227,12-06-2023,Home Office,Books,17,423.05,7191.85,Bank Transfer,New York
+ORD5762,12-03-2024,Small Business,Electronics,10,20.15,201.5,PayPal,Georgia
+ORD9418,18-03-2023,Home Office,Furniture,25,236.67,5916.75,Bank Transfer,Washington
+ORD9740,03-01-2023,Small Business,Sports,4,198.28,793.12,Cash,Georgia
+ORD2530,02-04-2023,Home Office,Groceries,2,409.33,818.66,Bank Transfer,Florida
+ORD3758,28-10-2023,Home Office,Books,5,162.34,811.7,Credit Card,Texas
+ORD5834,06-03-2024,Home Office,Sports,17,388.09,6597.53,Debit Card,Nevada
+ORD3317,27-01-2023,Small Business,Beauty,5,46.39,231.95,Bitcoin,Illinois
+ORD5613,10-07-2024,Small Business,Furniture,20,131.31,2626.2,Cash,Texas
+ORD9788,05-01-2024,Consumer,Furniture,2,29.64,59.28,Debit Card,California
+ORD4708,12-10-2024,Home Office,Beauty,13,29.32,381.16,Credit Card,Illinois
+ORD3580,26-05-2024,Home Office,Electronics,6,222.91,1337.46,Bank Transfer,Nevada
+ORD9339,15-04-2023,Corporate,Furniture,24,337.25,8094,Debit Card,Georgia
+ORD1826,06-06-2024,Corporate,Toys,11,424.56,4670.16,Bitcoin,California
+ORD1870,30-06-2023,Consumer,Beauty,23,64.74,1489.02,Credit Card,Washington
+ORD1111,01-11-2024,Home Office,Toys,12,422.96,5075.52,Bitcoin,Texas
+ORD1328,23-10-2024,Corporate,Books,9,348.98,3140.82,Bank Transfer,Illinois
+ORD1303,17-11-2024,Home Office,Sports,15,13.35,200.25,PayPal,Washington
+ORD4575,11-02-2024,Consumer,Sports,9,489.79,4408.11,Bitcoin,Georgia
+ORD6335,29-08-2024,Home Office,Furniture,5,458.56,2292.8,PayPal,Texas
+ORD7468,30-09-2024,Consumer,Groceries,12,226.46,2717.52,Bank Transfer,Nevada
+ORD1457,03-07-2024,Corporate,Sports,14,376.12,5265.68,PayPal,Nevada
+ORD9455,06-06-2023,Small Business,Sports,19,352.05,6688.95,Credit Card,Texas
+ORD5131,02-06-2024,Home Office,Beauty,12,480.13,5761.56,Debit Card,Illinois
+ORD5704,11-01-2024,Consumer,Beauty,3,16.27,48.81,Credit Card,Washington
+ORD7762,16-03-2023,Consumer,Furniture,6,409.23,2455.38,Credit Card,Nevada
+ORD6125,26-08-2024,Home Office,Furniture,22,403.46,8876.12,Debit Card,Washington
+ORD7318,18-04-2024,Home Office,Books,13,268.89,3495.57,Debit Card,Georgia
+ORD4683,26-09-2024,Corporate,Beauty,1,495.57,495.57,Debit Card,California
+ORD4704,25-11-2024,Small Business,Furniture,4,434.06,1736.24,Bitcoin,California
+ORD5963,09-10-2024,Small Business,Groceries,14,153.68,2151.52,Bitcoin,Illinois
+ORD5262,02-10-2023,Home Office,Books,19,95.28,1810.32,Bitcoin,Georgia
+ORD7629,19-09-2023,Home Office,Books,20,488.78,9775.6,Credit Card,Washington
+ORD8880,17-04-2024,Corporate,Books,24,474.32,11383.68,Credit Card,Texas
+ORD2353,03-08-2024,Small Business,Toys,10,105.88,1058.8,PayPal,Washington
+ORD3696,25-01-2023,Consumer,Beauty,20,209.52,4190.4,Bank Transfer,Florida
+ORD5530,25-05-2023,Home Office,Sports,22,340.72,7495.84,Bank Transfer,Georgia
+ORD5548,08-09-2023,Consumer,Toys,22,192.86,4242.92,Debit Card,New York
+ORD8659,14-11-2023,Consumer,Electronics,15,150.06,2250.9,Cash,Georgia
+ORD6110,22-02-2024,Home Office,Books,12,48.09,577.08,Bank Transfer,Washington
+ORD7983,21-01-2024,Home Office,Furniture,10,140.44,1404.4,Credit Card,Texas
+ORD5599,19-04-2024,Home Office,Beauty,7,66.46,465.22,Cash,California
+ORD6001,04-10-2024,Consumer,Furniture,19,200.9,3817.1,Cash,Texas
+ORD4949,12-10-2023,Home Office,Electronics,16,478.09,7649.44,PayPal,Georgia
+ORD8398,07-04-2024,Consumer,Beauty,14,364.57,5103.98,Cash,Florida
+ORD5076,24-02-2023,Home Office,Electronics,17,247.79,4212.43,Bank Transfer,New York
+ORD7905,02-02-2023,Small Business,Beauty,16,396.03,6336.48,Cash,New York
+ORD6601,24-09-2023,Consumer,Electronics,3,297.35,892.05,Debit Card,Illinois
+ORD4388,15-12-2023,Corporate,Toys,1,131.85,131.85,Cash,Florida
+ORD8179,09-12-2024,Small Business,Books,9,370.5,3334.5,Bitcoin,California
+ORD3152,05-03-2024,Corporate,Groceries,14,490.49,6866.86,PayPal,Georgia
+ORD9980,03-04-2024,Consumer,Beauty,14,143.06,2002.84,PayPal,Texas
+ORD4333,13-12-2023,Small Business,Sports,21,20.63,433.23,Debit Card,Illinois
+ORD3034,11-07-2024,Small Business,Fashion,19,80.52,1529.88,Credit Card,California
+ORD9502,16-02-2024,Corporate,Groceries,22,462.73,10180.06,Credit Card,Florida
+ORD9625,18-10-2023,Corporate,Sports,1,465.48,465.48,Bitcoin,Illinois
+ORD7485,13-08-2024,Consumer,Sports,11,422.52,4647.72,PayPal,California
+ORD7295,15-12-2024,Small Business,Beauty,8,51.43,411.44,Bank Transfer,Georgia
+ORD7323,25-02-2024,Home Office,Electronics,18,384.15,6914.7,Credit Card,Florida
+ORD8717,12-08-2023,Home Office,Fashion,11,246.12,2707.32,Bitcoin,Washington
+ORD5305,08-09-2024,Corporate,Sports,1,423.1,423.1,Cash,Georgia
+ORD1319,09-11-2023,Home Office,Beauty,21,401.57,8432.97,Bitcoin,Florida
+ORD7017,14-10-2024,Small Business,Books,7,213.01,1491.07,Bank Transfer,Florida
+ORD1939,27-11-2024,Consumer,Furniture,23,160.88,3700.24,Debit Card,California
+ORD5751,27-11-2024,Corporate,Furniture,9,38.35,345.15,Bank Transfer,Washington
+ORD4790,03-05-2023,Home Office,Furniture,16,312.41,4998.56,Debit Card,California
+ORD5769,27-06-2024,Home Office,Furniture,12,15.37,184.44,PayPal,Nevada
+ORD8119,03-07-2023,Corporate,Furniture,13,459.64,5975.32,Bank Transfer,Texas
+ORD2878,14-04-2024,Corporate,Furniture,2,345.08,690.16,Credit Card,Illinois
+ORD1003,02-05-2024,Consumer,Furniture,15,441.74,6626.1,Bank Transfer,Illinois
+ORD4431,21-07-2023,Small Business,Sports,24,189.48,4547.52,Bitcoin,Nevada
+ORD9651,08-03-2024,Home Office,Groceries,13,33.73,438.49,Bank Transfer,Illinois
+ORD4879,09-04-2024,Home Office,Sports,15,71.9,1078.5,PayPal,Illinois
+ORD9540,04-08-2024,Corporate,Sports,15,292.83,4392.45,Bank Transfer,Nevada
+ORD3462,24-05-2023,Home Office,Sports,7,455.76,3190.32,Cash,Georgia
+ORD1215,08-02-2023,Home Office,Fashion,6,41.78,250.68,PayPal,Florida
+ORD2056,04-02-2023,Corporate,Sports,11,384.13,4225.43,Cash,Florida
+ORD7269,29-07-2023,Consumer,Groceries,3,242.35,727.05,Debit Card,Texas
+ORD6251,04-01-2023,Corporate,Groceries,16,184.42,2950.72,Debit Card,Washington
+ORD5817,28-10-2024,Consumer,Electronics,5,330.27,1651.35,Bitcoin,Florida
+ORD4157,08-04-2024,Consumer,Fashion,14,395.16,5532.24,Bitcoin,New York
+ORD7997,05-06-2023,Small Business,Groceries,5,7.85,39.25,Debit Card,Texas
+ORD8676,25-01-2023,Corporate,Groceries,13,102.86,1337.18,Bank Transfer,Florida
+ORD1715,27-02-2024,Corporate,Groceries,7,403.37,2823.59,Debit Card,Texas
+ORD7100,10-05-2024,Consumer,Toys,18,263.05,4734.9,Cash,Washington
+ORD4588,01-11-2023,Consumer,Toys,22,359.46,7908.12,PayPal,Texas
+ORD5361,10-03-2023,Home Office,Beauty,14,379.94,5319.16,PayPal,California
+ORD9436,05-05-2023,Corporate,Furniture,11,345.37,3799.07,Credit Card,Nevada
+ORD1964,29-12-2024,Corporate,Toys,16,478.29,7652.64,Bitcoin,Texas
+ORD2828,15-06-2023,Consumer,Toys,11,30.87,339.57,Credit Card,Georgia
+ORD8991,28-07-2024,Consumer,Electronics,12,343.31,4119.72,Cash,Florida
+ORD9754,19-10-2024,Small Business,Beauty,10,324.06,3240.6,Cash,Nevada
+ORD9148,14-06-2024,Consumer,Furniture,11,166.88,1835.68,Bank Transfer,Texas
+ORD1327,05-04-2023,Corporate,Electronics,20,411.51,8230.2,Bank Transfer,Georgia
+ORD1650,01-02-2024,Corporate,Groceries,14,327.24,4581.36,Bitcoin,Georgia
+ORD3514,06-04-2023,Home Office,Sports,1,237.68,237.68,Cash,Florida
+ORD4242,21-07-2024,Consumer,Groceries,21,398.03,8358.63,PayPal,Texas
+ORD5782,24-09-2023,Small Business,Groceries,3,477.83,1433.49,Credit Card,Nevada
+ORD7299,02-09-2023,Corporate,Fashion,19,136.4,2591.6,Bitcoin,Florida
+ORD8650,01-09-2023,Small Business,Beauty,8,105.19,841.52,Bitcoin,Georgia
+ORD7205,05-02-2023,Corporate,Groceries,24,448.28,10758.72,Debit Card,Illinois
+ORD4300,23-08-2023,Consumer,Electronics,25,18.33,458.25,PayPal,Florida
+ORD9538,26-03-2024,Home Office,Sports,7,322.29,2256.03,Credit Card,California
+ORD6029,11-09-2024,Corporate,Furniture,15,191.71,2875.65,Debit Card,Washington
+ORD1362,26-07-2024,Corporate,Toys,24,29.58,709.92,Cash,Florida
+ORD8108,23-07-2024,Small Business,Groceries,25,471.32,11783,Debit Card,Nevada
+ORD4939,16-10-2024,Home Office,Electronics,18,385.99,6947.82,PayPal,Washington
+ORD4763,08-12-2024,Home Office,Books,1,419.24,419.24,Cash,Texas
+ORD8764,28-05-2023,Small Business,Furniture,7,154.56,1081.92,Bitcoin,Georgia
+ORD8230,06-09-2023,Consumer,Beauty,6,430.46,2582.76,Bitcoin,Illinois
+ORD2474,12-02-2023,Home Office,Toys,16,51.68,826.88,PayPal,California
+ORD9586,26-12-2023,Home Office,Groceries,24,226.7,5440.8,Cash,Washington
+ORD1973,22-09-2023,Small Business,Sports,21,417.17,8760.57,Bitcoin,Texas
+ORD8118,21-06-2023,Corporate,Toys,12,462.89,5554.68,Bitcoin,Florida
+ORD5662,16-04-2024,Small Business,Electronics,13,399.5,5193.5,Credit Card,Illinois
+ORD2030,20-01-2023,Consumer,Books,21,227.74,4782.54,Debit Card,Texas
+ORD6445,17-12-2023,Corporate,Beauty,4,218.02,872.08,Credit Card,Florida
+ORD4217,08-03-2024,Consumer,Beauty,10,406.06,4060.6,Bank Transfer,Texas
+ORD1047,17-09-2023,Home Office,Beauty,14,297.65,4167.1,Bitcoin,New York
+ORD5515,15-11-2024,Consumer,Electronics,17,54.05,918.85,Bitcoin,Texas
+ORD8914,20-07-2024,Small Business,Beauty,15,380.35,5705.25,Cash,New York
+ORD4808,13-03-2023,Home Office,Sports,20,39.87,797.4,Cash,Florida
+ORD8812,29-09-2024,Small Business,Toys,23,315.21,7249.83,Bank Transfer,Florida
+ORD6747,21-07-2024,Home Office,Groceries,5,143.08,715.4,Bitcoin,Florida
+ORD5896,22-11-2024,Corporate,Furniture,21,62.46,1311.66,PayPal,Illinois
+ORD7929,27-09-2023,Home Office,Fashion,17,77.26,1313.42,Bank Transfer,Nevada
+ORD4785,18-11-2023,Home Office,Beauty,1,434.7,434.7,Bank Transfer,Nevada
+ORD8675,17-03-2024,Consumer,Electronics,18,225.13,4052.34,Bitcoin,Washington
+ORD9012,12-03-2024,Home Office,Toys,22,286.32,6299.04,Credit Card,Florida
+ORD3750,11-12-2024,Consumer,Books,5,250.83,1254.15,Bank Transfer,Texas
+ORD5994,07-02-2023,Home Office,Groceries,16,259.13,4146.08,PayPal,New York
+ORD6292,24-02-2024,Consumer,Furniture,25,497.69,12442.25,Cash,Georgia
+ORD4985,15-10-2024,Consumer,Sports,8,344.12,2752.96,Cash,Nevada
+ORD5796,07-03-2023,Home Office,Electronics,25,438.78,10969.5,Debit Card,Florida
+ORD1380,30-01-2023,Corporate,Sports,15,466.32,6994.8,Cash,Georgia
+ORD5401,01-08-2023,Small Business,Beauty,11,141.28,1554.08,PayPal,Washington
+ORD3743,11-08-2023,Home Office,Furniture,7,27.72,194.04,Debit Card,Illinois
+ORD8489,31-10-2024,Corporate,Books,16,410.26,6564.16,Cash,New York
+ORD8238,06-02-2024,Small Business,Fashion,22,479.29,10544.38,Debit Card,New York
+ORD4070,16-09-2023,Home Office,Books,10,230.97,2309.7,Bank Transfer,Illinois
+ORD9404,03-02-2024,Small Business,Sports,12,238.68,2864.16,PayPal,Georgia
+ORD3057,31-12-2023,Consumer,Furniture,6,179.99,1079.94,Bitcoin,Florida
+ORD5327,22-05-2024,Small Business,Books,17,413.64,7031.88,Cash,Georgia
+ORD3806,27-08-2024,Corporate,Sports,5,234.42,1172.1,Cash,Georgia
+ORD8623,19-11-2024,Small Business,Fashion,4,330.45,1321.8,Credit Card,Florida
+ORD1847,02-01-2023,Consumer,Beauty,17,434.55,7387.35,Bank Transfer,Washington
+ORD5853,15-01-2023,Corporate,Toys,20,450.65,9013,Bitcoin,Washington
+ORD3064,15-10-2024,Corporate,Beauty,7,395,2765,Cash,Georgia
+ORD3839,16-01-2023,Home Office,Books,20,161.71,3234.2,Bank Transfer,Washington
+ORD9598,21-01-2023,Home Office,Fashion,15,360.48,5407.2,PayPal,Washington
+ORD5199,24-02-2023,Corporate,Furniture,15,225.53,3382.95,Bitcoin,Texas
+ORD6322,15-01-2024,Corporate,Beauty,4,103.5,414,PayPal,Illinois
+ORD4493,28-04-2024,Small Business,Beauty,15,296.25,4443.75,Bitcoin,Nevada
+ORD1023,22-12-2023,Home Office,Books,3,497.46,1492.38,Bitcoin,New York
+ORD5434,16-07-2024,Small Business,Groceries,16,216.47,3463.52,Credit Card,Illinois
+ORD2545,15-07-2023,Home Office,Electronics,24,448.5,10764,Credit Card,Florida
+ORD8906,04-07-2024,Consumer,Fashion,24,51,1224,PayPal,California
+ORD9115,01-03-2024,Small Business,Books,7,46.6,326.2,Debit Card,California
+ORD6180,20-02-2024,Home Office,Books,11,328.25,3610.75,PayPal,Nevada
+ORD3110,22-01-2023,Corporate,Beauty,18,201.95,3635.1,Bitcoin,Florida
+ORD6285,04-04-2023,Corporate,Furniture,13,286.97,3730.61,PayPal,Washington
+ORD2975,21-03-2023,Home Office,Sports,6,109.94,659.64,Credit Card,Florida
+ORD8810,28-08-2024,Consumer,Sports,20,199.2,3984,Bank Transfer,Nevada
+ORD6668,11-09-2023,Home Office,Groceries,20,43.25,865,Debit Card,Texas
+ORD7271,15-05-2024,Corporate,Electronics,23,276.66,6363.18,Bank Transfer,Georgia
+ORD1503,16-01-2023,Small Business,Sports,23,101.5,2334.5,Cash,Georgia
+ORD6602,29-12-2023,Consumer,Toys,16,490.92,7854.72,Bank Transfer,Georgia
+ORD4514,27-01-2023,Corporate,Fashion,14,367.57,5145.98,Bank Transfer,California
+ORD2910,07-08-2023,Consumer,Toys,7,421.47,2950.29,Credit Card,Illinois
+ORD7818,28-06-2023,Consumer,Sports,7,419.99,2939.93,Cash,Washington
+ORD6791,11-09-2024,Small Business,Beauty,5,261.81,1309.05,PayPal,California
+ORD2088,19-05-2023,Consumer,Furniture,23,32.64,750.72,Bank Transfer,Illinois
+ORD5744,18-08-2023,Corporate,Electronics,2,104.92,209.84,Cash,Washington
+ORD3117,13-09-2024,Corporate,Beauty,8,73.37,586.96,Cash,Illinois
+ORD1900,13-07-2023,Corporate,Groceries,7,55.91,391.37,Debit Card,Texas
+ORD2469,06-01-2023,Corporate,Beauty,9,351.33,3161.97,PayPal,Nevada
+ORD7617,31-05-2023,Corporate,Furniture,9,289.33,2603.97,PayPal,Florida
+ORD9901,08-01-2024,Consumer,Beauty,15,160.08,2401.2,Debit Card,Illinois
+ORD7202,08-06-2023,Consumer,Electronics,17,79.84,1357.28,Cash,Georgia
+ORD8045,20-04-2023,Consumer,Sports,10,245.88,2458.8,Bank Transfer,New York
+ORD5364,18-09-2024,Corporate,Toys,7,319.69,2237.83,Cash,New York
+ORD1806,01-09-2023,Corporate,Books,7,64.85,453.95,Bitcoin,California
+ORD3782,10-07-2023,Home Office,Furniture,11,432.95,4762.45,Bitcoin,New York
+ORD4144,07-07-2024,Small Business,Books,16,444.4,7110.4,Bitcoin,New York
+ORD6975,06-09-2023,Small Business,Beauty,7,180.9,1266.3,Credit Card,Florida
+ORD3288,25-03-2023,Home Office,Groceries,21,204.33,4290.93,PayPal,Washington
+ORD3502,21-09-2024,Consumer,Furniture,24,436.04,10464.96,PayPal,California
+ORD8122,07-10-2023,Home Office,Beauty,23,265.87,6115.01,PayPal,California
+ORD5107,11-09-2023,Corporate,Beauty,2,48.82,97.64,Bank Transfer,Florida
+ORD6299,26-09-2023,Home Office,Toys,6,238.7,1432.2,PayPal,California
+ORD6416,29-03-2024,Small Business,Books,19,375.2,7128.8,PayPal,Illinois
+ORD5070,22-07-2024,Small Business,Fashion,14,292.65,4097.1,PayPal,California
+ORD4214,05-01-2023,Small Business,Sports,1,343.93,343.93,Cash,Georgia
+ORD9138,22-10-2023,Small Business,Books,12,323.81,3885.72,Credit Card,New York
+ORD3206,07-07-2023,Home Office,Books,7,86.32,604.24,Credit Card,Florida
+ORD2489,13-12-2023,Small Business,Toys,16,274.64,4394.24,Cash,Nevada
+ORD2529,12-09-2023,Corporate,Books,7,352.64,2468.48,Cash,Illinois
+ORD3602,06-08-2024,Consumer,Toys,2,211.27,422.54,Debit Card,Texas
+ORD3919,24-12-2024,Consumer,Toys,3,370.22,1110.66,PayPal,Florida
+ORD8333,04-02-2024,Home Office,Groceries,5,9.85,49.25,PayPal,Florida
+ORD6255,20-04-2023,Home Office,Fashion,6,141.05,846.3,Debit Card,Nevada
+ORD6205,11-06-2023,Corporate,Electronics,15,350.34,5255.1,PayPal,California
+ORD9471,18-09-2024,Consumer,Books,20,397.78,7955.6,Debit Card,Nevada
+ORD7307,02-12-2024,Consumer,Sports,8,162.2,1297.6,Debit Card,New York
+ORD6085,06-11-2023,Consumer,Beauty,22,287.5,6325,Credit Card,Texas
+ORD6219,14-02-2024,Small Business,Groceries,5,371,1855,Credit Card,California
+ORD2305,19-08-2023,Home Office,Electronics,25,47.46,1186.5,Bank Transfer,Washington
+ORD2104,29-09-2024,Small Business,Groceries,5,400.87,2004.35,Bank Transfer,California
+ORD4782,07-01-2023,Home Office,Groceries,16,204.61,3273.76,Credit Card,Texas
+ORD9508,29-09-2024,Corporate,Furniture,16,192.32,3077.12,Cash,Washington
+ORD9213,26-04-2024,Consumer,Groceries,19,492.66,9360.54,Credit Card,Illinois
+ORD1764,17-09-2023,Home Office,Books,7,139.13,973.91,Cash,Texas
+ORD6899,13-09-2023,Corporate,Fashion,14,347.22,4861.08,PayPal,Illinois
+ORD3181,12-08-2023,Small Business,Books,5,168.7,843.5,Debit Card,Texas
+ORD5949,12-02-2024,Home Office,Sports,24,367.95,8830.8,Bank Transfer,California
+ORD3949,12-11-2023,Small Business,Beauty,2,131.71,263.42,PayPal,Illinois
+ORD7917,15-06-2024,Corporate,Sports,5,353.93,1769.65,Debit Card,Texas
+ORD2758,28-05-2023,Small Business,Toys,3,138.16,414.48,Debit Card,Illinois
+ORD9453,17-01-2023,Consumer,Toys,3,486.48,1459.44,Credit Card,Georgia
+ORD1490,28-01-2023,Corporate,Books,17,451.88,7681.96,Bank Transfer,Florida
+ORD5336,09-06-2023,Corporate,Toys,13,242.98,3158.74,Bitcoin,Nevada
+ORD7182,30-05-2023,Home Office,Fashion,4,466.56,1866.24,Debit Card,Washington
+ORD2799,01-06-2024,Home Office,Furniture,16,200.57,3209.12,Bitcoin,Georgia
+ORD8007,29-09-2023,Small Business,Beauty,20,306.36,6127.2,Bitcoin,Illinois
+ORD2411,06-09-2024,Small Business,Beauty,1,425.93,425.93,Debit Card,Texas
+ORD9557,11-04-2024,Corporate,Furniture,15,97.38,1460.7,Debit Card,New York
+ORD7578,30-07-2023,Consumer,Sports,18,183.93,3310.74,Credit Card,Georgia
+ORD2736,16-01-2023,Home Office,Electronics,6,115.14,690.84,Cash,Texas
+ORD8387,12-03-2023,Consumer,Fashion,12,333.8,4005.6,Debit Card,Georgia
+ORD7631,05-03-2024,Consumer,Books,24,280.09,6722.16,Bitcoin,Illinois
+ORD1483,14-05-2023,Small Business,Beauty,3,391.05,1173.15,Bitcoin,Florida
+ORD2232,22-02-2024,Corporate,Beauty,17,76.09,1293.53,PayPal,Texas
+ORD2123,12-04-2024,Corporate,Electronics,16,324.31,5188.96,Credit Card,Nevada
+ORD7816,31-05-2024,Small Business,Toys,4,130.59,522.36,Cash,Georgia
+ORD1403,20-09-2024,Consumer,Books,7,381.76,2672.32,Credit Card,Nevada
+ORD6541,15-04-2023,Consumer,Books,14,444.22,6219.08,PayPal,Washington
+ORD7350,03-06-2024,Corporate,Electronics,13,432.63,5624.19,Debit Card,Florida
+ORD4487,15-02-2023,Consumer,Groceries,2,495.24,990.48,Credit Card,Illinois
+ORD9320,14-05-2024,Small Business,Toys,16,396.94,6351.04,Credit Card,California
+ORD8256,01-10-2024,Small Business,Groceries,10,263,2630,PayPal,Washington
+ORD5506,05-08-2023,Consumer,Furniture,17,189.56,3222.52,PayPal,Florida
+ORD6478,23-04-2023,Small Business,Fashion,10,29.28,292.8,PayPal,New York
+ORD4480,01-09-2024,Corporate,Fashion,6,176.14,1056.84,Cash,Texas
+ORD7250,01-04-2023,Small Business,Beauty,18,69.77,1255.86,Credit Card,California
+ORD4297,24-03-2023,Consumer,Toys,15,175.95,2639.25,Cash,New York
+ORD7514,17-01-2023,Small Business,Toys,5,208.86,1044.3,Bank Transfer,Texas
+ORD3386,13-07-2024,Small Business,Electronics,6,295.43,1772.58,PayPal,Georgia
+ORD4343,07-09-2023,Small Business,Books,10,281.25,2812.5,Bank Transfer,Nevada
+ORD7859,30-11-2024,Home Office,Beauty,25,253.6,6340,Bitcoin,New York
+ORD9596,26-12-2024,Small Business,Fashion,13,172.42,2241.46,Credit Card,Nevada
+ORD8781,03-12-2024,Small Business,Groceries,17,430.02,7310.34,Cash,Florida
+ORD7084,01-07-2024,Home Office,Toys,23,277.27,6377.21,Credit Card,New York
+ORD6695,17-01-2024,Small Business,Toys,15,241.5,3622.5,Debit Card,Illinois
+ORD9729,19-10-2023,Corporate,Furniture,11,320.51,3525.61,Bank Transfer,Texas
+ORD5250,30-06-2024,Corporate,Groceries,12,233.65,2803.8,Bank Transfer,Nevada
+ORD1028,21-10-2024,Small Business,Books,17,243.69,4142.73,Cash,Florida
+ORD8572,03-07-2024,Home Office,Sports,23,416.23,9573.29,Cash,California
+ORD2496,05-05-2024,Consumer,Furniture,13,384.96,5004.48,Cash,Texas
+ORD2414,24-06-2024,Corporate,Electronics,11,445.37,4899.07,Credit Card,Texas
+ORD5300,07-04-2023,Corporate,Furniture,15,143.09,2146.35,Bank Transfer,Washington
+ORD4348,10-03-2023,Home Office,Books,18,321.85,5793.3,Bitcoin,Washington
+ORD2517,19-02-2023,Corporate,Toys,22,223.21,4910.62,Debit Card,Illinois
+ORD5878,10-12-2024,Corporate,Toys,3,283.17,849.51,Cash,Illinois
+ORD2243,07-07-2023,Consumer,Furniture,18,430.5,7749,Debit Card,Florida
+ORD6437,26-12-2024,Consumer,Furniture,7,331.07,2317.49,Debit Card,Washington
+ORD8982,26-11-2024,Home Office,Toys,7,206.58,1446.06,PayPal,Florida
+ORD6361,03-09-2024,Corporate,Toys,9,111.52,1003.68,PayPal,Nevada
+ORD4275,21-12-2024,Home Office,Toys,2,374.97,749.94,Bitcoin,Nevada
+ORD4126,27-07-2023,Small Business,Sports,9,107.02,963.18,Cash,New York
+ORD1667,10-08-2023,Corporate,Toys,21,207.5,4357.5,PayPal,New York
+ORD2612,11-12-2024,Home Office,Groceries,1,396.27,396.27,Debit Card,Illinois
+ORD5770,08-10-2023,Consumer,Electronics,18,192.31,3461.58,Debit Card,Illinois
+ORD1427,13-10-2024,Home Office,Books,1,153.04,153.04,Bank Transfer,Washington
+ORD7638,05-02-2023,Corporate,Toys,20,221.84,4436.8,Cash,Nevada
+ORD6284,21-09-2023,Small Business,Books,23,12.21,280.83,PayPal,New York
+ORD7700,15-08-2024,Corporate,Toys,8,55.32,442.56,Debit Card,Illinois
+ORD1508,01-01-2023,Small Business,Beauty,4,46.87,187.48,Debit Card,Illinois
+ORD8514,05-10-2023,Home Office,Fashion,23,400.36,9208.28,Bitcoin,Illinois
+ORD1993,27-12-2023,Corporate,Sports,2,251.06,502.12,PayPal,Texas
+ORD2006,19-12-2024,Small Business,Toys,7,407.61,2853.27,Cash,Illinois
+ORD9210,18-01-2024,Small Business,Toys,11,352.53,3877.83,Cash,Georgia
+ORD5432,05-12-2024,Consumer,Sports,9,252.27,2270.43,Bitcoin,New York
+ORD8558,26-04-2023,Consumer,Furniture,23,165.72,3811.56,Debit Card,Nevada
+ORD4734,17-11-2024,Home Office,Sports,25,384.67,9616.75,Bitcoin,Georgia
+ORD1988,16-07-2023,Small Business,Groceries,12,271.26,3255.12,Bitcoin,Illinois
+ORD7911,22-10-2023,Consumer,Books,16,294.47,4711.52,Bitcoin,Nevada
+ORD2534,14-09-2023,Corporate,Toys,17,431.59,7337.03,Debit Card,Washington
+ORD9505,02-10-2024,Corporate,Groceries,23,466.81,10736.63,Cash,New York
+ORD8554,22-09-2024,Home Office,Groceries,1,380.92,380.92,Cash,California
+ORD2250,06-04-2023,Small Business,Books,13,42.71,555.23,Debit Card,New York
+ORD4216,18-05-2023,Home Office,Groceries,23,140.55,3232.65,Bank Transfer,New York
+ORD6149,10-03-2023,Corporate,Sports,15,93.24,1398.6,Credit Card,Texas
+ORD9949,01-06-2024,Corporate,Beauty,12,76.92,923.04,Bitcoin,Washington
+ORD7595,25-06-2023,Small Business,Beauty,4,369.34,1477.36,Cash,Nevada
+ORD3536,30-05-2023,Home Office,Beauty,17,215.26,3659.42,Credit Card,Texas
+ORD2458,08-04-2023,Home Office,Furniture,16,341.43,5462.88,Bank Transfer,Nevada
+ORD1995,18-08-2023,Consumer,Sports,25,336.27,8406.75,PayPal,Georgia
+ORD5646,13-05-2023,Consumer,Furniture,5,411.13,2055.65,Cash,Florida
+ORD1537,16-06-2023,Home Office,Toys,1,248.98,248.98,PayPal,Florida
+ORD6988,06-03-2024,Home Office,Groceries,12,76.61,919.32,PayPal,Texas
+ORD2859,14-03-2024,Consumer,Books,14,398.13,5573.82,PayPal,Georgia
+ORD4677,19-07-2023,Corporate,Groceries,23,101.17,2326.91,Debit Card,Texas
+ORD2614,30-07-2023,Small Business,Furniture,1,53.03,53.03,Bitcoin,Nevada
+ORD9965,25-08-2023,Small Business,Electronics,21,368.15,7731.15,Credit Card,New York
+ORD5801,26-08-2024,Small Business,Furniture,16,441.21,7059.36,Bitcoin,Illinois
+ORD5308,17-12-2023,Small Business,Fashion,15,125.12,1876.8,PayPal,Nevada
+ORD1359,11-04-2024,Home Office,Books,15,225.61,3384.15,PayPal,Georgia
+ORD8646,20-11-2023,Home Office,Fashion,15,204.26,3063.9,PayPal,California
+ORD1447,26-02-2023,Home Office,Electronics,8,96.78,774.24,Debit Card,Texas
+ORD2376,27-08-2023,Consumer,Beauty,17,10.65,181.05,Bitcoin,California
+ORD3612,15-07-2024,Small Business,Sports,24,276.96,6647.04,Credit Card,Texas
+ORD9064,12-06-2024,Corporate,Sports,20,205.62,4112.4,Credit Card,Washington
+ORD4195,26-05-2024,Corporate,Fashion,20,138.01,2760.2,Cash,Washington
+ORD6993,25-02-2023,Small Business,Electronics,15,264.8,3972,Cash,Texas
+ORD9009,16-10-2023,Consumer,Fashion,7,136.29,954.03,Credit Card,Washington
+ORD3932,21-10-2024,Small Business,Electronics,7,241.2,1688.4,Bitcoin,Georgia
+ORD7709,12-10-2024,Home Office,Books,4,413.99,1655.96,Credit Card,Washington
+ORD2555,27-08-2024,Small Business,Books,18,207.37,3732.66,PayPal,California
+ORD3714,05-05-2024,Corporate,Sports,2,12.29,24.58,Bank Transfer,Illinois
+ORD9865,31-07-2024,Consumer,Beauty,19,409.71,7784.49,Credit Card,New York
+ORD8859,24-06-2023,Corporate,Toys,16,107.26,1716.16,Debit Card,Texas
+ORD7924,11-11-2023,Small Business,Toys,24,282.4,6777.6,Credit Card,Illinois
+ORD8043,05-11-2024,Corporate,Sports,20,138.53,2770.6,Bank Transfer,New York
+ORD3837,27-09-2023,Consumer,Sports,21,249.92,5248.32,Credit Card,New York
+ORD2323,16-09-2024,Corporate,Fashion,7,343.37,2403.59,Credit Card,Washington
+ORD3038,08-01-2023,Consumer,Groceries,16,75.47,1207.52,Bitcoin,New York
+ORD5113,09-07-2023,Consumer,Furniture,13,277.66,3609.58,Credit Card,Georgia
+ORD1843,30-03-2023,Corporate,Furniture,12,99.22,1190.64,Bank Transfer,New York
+ORD8525,16-06-2023,Small Business,Sports,3,89.36,268.08,Cash,Nevada
+ORD1732,27-05-2023,Consumer,Furniture,8,201.29,1610.32,Bank Transfer,Washington
+ORD6087,15-04-2024,Small Business,Electronics,11,47.52,522.72,Credit Card,Washington
+ORD6389,08-09-2024,Home Office,Fashion,22,244.96,5389.12,Cash,New York
+ORD4780,27-06-2024,Corporate,Electronics,9,478.37,4305.33,Credit Card,Washington
+ORD7451,15-08-2023,Corporate,Books,11,84.84,933.24,PayPal,Washington
+ORD4394,29-07-2023,Home Office,Books,25,323.75,8093.75,PayPal,Georgia
+ORD8018,13-05-2023,Corporate,Furniture,15,312.52,4687.8,Debit Card,New York
+ORD1894,22-09-2024,Consumer,Fashion,24,42.64,1023.36,PayPal,New York
+ORD9356,28-05-2024,Home Office,Toys,22,421.32,9269.04,Cash,Florida
+ORD5815,02-01-2024,Consumer,Sports,1,463.14,463.14,PayPal,Georgia
+ORD9470,05-10-2023,Home Office,Fashion,7,187.74,1314.18,Cash,Georgia
+ORD9500,08-02-2023,Home Office,Beauty,12,387.67,4652.04,PayPal,Nevada
+ORD4848,03-02-2024,Corporate,Electronics,18,246.37,4434.66,PayPal,New York
+ORD8934,22-08-2024,Small Business,Sports,17,452.22,7687.74,Credit Card,New York
+ORD4477,15-10-2024,Corporate,Books,15,287.76,4316.4,Bitcoin,California
+ORD5459,15-08-2023,Consumer,Electronics,25,436.06,10901.5,Credit Card,Florida
+ORD9152,28-05-2023,Consumer,Groceries,11,393.27,4325.97,Credit Card,New York
+ORD1827,27-07-2024,Home Office,Furniture,3,494.88,1484.64,Debit Card,California
+ORD9317,20-05-2024,Small Business,Toys,21,59.2,1243.2,Debit Card,Washington
+ORD8770,17-06-2024,Consumer,Sports,7,354.88,2484.16,PayPal,New York
+ORD3765,08-01-2024,Home Office,Books,1,354.43,354.43,Credit Card,Illinois
+ORD7721,28-06-2024,Home Office,Groceries,1,262.66,262.66,Bank Transfer,Illinois
+ORD1480,12-03-2024,Small Business,Groceries,15,467.7,7015.5,Bank Transfer,Illinois
+ORD2989,12-05-2024,Small Business,Books,2,234.51,469.02,PayPal,Georgia
+ORD7218,07-06-2023,Small Business,Fashion,25,483.37,12084.25,Cash,California
+ORD5607,26-12-2023,Small Business,Groceries,4,485.13,1940.52,Bank Transfer,Washington
+ORD7644,27-11-2023,Consumer,Toys,2,435.02,870.04,Credit Card,Florida
+ORD9946,16-05-2023,Small Business,Beauty,25,431.69,10792.25,Bitcoin,Texas
+ORD9914,18-06-2024,Consumer,Fashion,2,243.56,487.12,Credit Card,Nevada
+ORD9375,28-06-2024,Home Office,Furniture,1,40.44,40.44,Cash,Texas
+ORD6774,15-04-2023,Home Office,Toys,25,93.7,2342.5,Debit Card,Georgia
+ORD1448,14-06-2024,Corporate,Fashion,9,498.87,4489.83,Bank Transfer,Illinois
+ORD8081,21-08-2024,Consumer,Books,14,456.67,6393.38,Bitcoin,New York
+ORD1273,05-07-2023,Consumer,Groceries,9,411.21,3700.89,Bitcoin,Washington
+ORD2689,04-05-2024,Small Business,Furniture,24,421.89,10125.36,Bitcoin,California
+ORD6590,21-09-2023,Consumer,Groceries,19,320.49,6089.31,Debit Card,Texas
+ORD4935,16-10-2023,Consumer,Beauty,15,8.93,133.95,Cash,Washington
+ORD9960,21-05-2023,Corporate,Sports,21,170.54,3581.34,Credit Card,Washington
+ORD9638,10-03-2023,Corporate,Toys,18,418.76,7537.68,Bank Transfer,California
+ORD9942,13-09-2024,Small Business,Groceries,16,364.75,5836,Debit Card,Illinois
+ORD5492,27-03-2023,Small Business,Groceries,23,291.68,6708.64,Bitcoin,New York
+ORD9466,20-07-2024,Consumer,Groceries,15,289.44,4341.6,Bank Transfer,Illinois
+ORD3248,17-02-2024,Consumer,Sports,6,200.37,1202.22,Bank Transfer,Washington
+ORD5372,03-06-2023,Corporate,Books,23,372.53,8568.19,Bank Transfer,Texas
+ORD3702,11-10-2024,Small Business,Fashion,7,465.48,3258.36,Bank Transfer,Nevada
+ORD4375,25-06-2024,Consumer,Fashion,18,135.11,2431.98,Credit Card,Texas
+ORD5798,30-05-2024,Corporate,Groceries,17,42.25,718.25,Bank Transfer,Texas
+ORD3705,11-03-2023,Corporate,Toys,10,399.41,3994.1,Cash,Illinois
+ORD3830,27-03-2023,Small Business,Electronics,8,206.2,1649.6,Bitcoin,Illinois
+ORD6852,14-02-2023,Consumer,Electronics,15,425.67,6385.05,Credit Card,Illinois
+ORD3045,28-01-2023,Corporate,Beauty,16,333.12,5329.92,Cash,Nevada
+ORD7312,28-05-2024,Home Office,Furniture,16,196.57,3145.12,PayPal,Illinois
+ORD6857,24-02-2024,Home Office,Electronics,9,78.69,708.21,Cash,Washington
+ORD8421,18-04-2024,Corporate,Toys,4,449.58,1798.32,Bitcoin,New York
+ORD5813,17-02-2023,Consumer,Toys,14,464.38,6501.32,Debit Card,Texas
+ORD3527,16-04-2023,Home Office,Electronics,13,286.93,3730.09,Bitcoin,Nevada
+ORD8499,18-04-2024,Corporate,Beauty,22,445.98,9811.56,PayPal,Georgia
+ORD9236,02-05-2024,Small Business,Sports,22,409.92,9018.24,Bank Transfer,New York
+ORD9497,11-08-2024,Corporate,Sports,3,387.3,1161.9,Bitcoin,New York
+ORD6348,29-09-2024,Small Business,Books,9,454.22,4087.98,Debit Card,Texas
+ORD6653,22-11-2024,Corporate,Electronics,15,42.7,640.5,Cash,California
+ORD6188,10-11-2024,Home Office,Sports,3,290.47,871.41,Cash,Texas
+ORD4796,16-11-2024,Corporate,Groceries,16,297.01,4752.16,PayPal,Georgia
+ORD5449,06-05-2023,Home Office,Sports,12,292.12,3505.44,Bitcoin,Georgia
+ORD7220,23-12-2023,Corporate,Furniture,4,248.99,995.96,Cash,Illinois
+ORD6867,06-06-2024,Corporate,Furniture,22,64.22,1412.84,Cash,Illinois
+ORD1867,11-12-2024,Corporate,Toys,5,298.94,1494.7,Bank Transfer,Florida
+ORD3249,01-09-2023,Small Business,Fashion,25,181.17,4529.25,PayPal,Texas
+ORD2077,18-09-2023,Home Office,Toys,23,356.29,8194.67,Debit Card,Georgia
+ORD4406,18-06-2024,Small Business,Groceries,24,84.13,2019.12,Bitcoin,Georgia
+ORD3239,21-12-2023,Corporate,Electronics,7,26.87,188.09,Debit Card,Florida
+ORD4630,22-06-2024,Small Business,Groceries,18,486.45,8756.1,Debit Card,Nevada
+ORD6413,07-07-2023,Home Office,Fashion,23,470.97,10832.31,PayPal,California
+ORD9653,26-08-2023,Consumer,Toys,11,203.95,2243.45,Bank Transfer,Washington
+ORD2724,03-05-2023,Small Business,Fashion,8,124.48,995.84,Debit Card,Illinois
+ORD9812,23-11-2024,Small Business,Beauty,15,67.84,1017.6,Credit Card,Washington
+ORD5998,24-10-2024,Corporate,Electronics,8,146.6,1172.8,Bank Transfer,New York
+ORD2911,21-11-2023,Corporate,Fashion,7,462.83,3239.81,Debit Card,Georgia
+ORD4139,24-01-2023,Consumer,Beauty,18,224.89,4048.02,Debit Card,Georgia
+ORD6105,02-07-2023,Consumer,Fashion,20,18.02,360.4,Bank Transfer,Texas
+ORD9465,09-09-2023,Consumer,Electronics,25,211.4,5285,Cash,Illinois
+ORD2871,04-02-2023,Small Business,Books,22,155.9,3429.8,Cash,Texas
+ORD4414,24-12-2023,Home Office,Furniture,7,173.17,1212.19,Cash,California
+ORD5411,15-10-2024,Home Office,Groceries,7,473.59,3315.13,Bank Transfer,Florida
+ORD5352,17-02-2023,Small Business,Books,23,86.5,1989.5,Bitcoin,Illinois
+ORD2015,02-01-2024,Small Business,Furniture,4,228.09,912.36,Debit Card,Florida
+ORD7452,29-05-2023,Home Office,Sports,18,112.68,2028.24,Cash,Nevada
+ORD2597,22-04-2023,Home Office,Electronics,13,456.26,5931.38,PayPal,Georgia
+ORD5745,07-04-2024,Home Office,Beauty,16,90.8,1452.8,Cash,Washington
+ORD4166,25-11-2024,Small Business,Books,2,197.08,394.16,Credit Card,California
+ORD3686,15-11-2024,Small Business,Electronics,16,351.73,5627.68,Cash,Washington
+ORD4979,30-09-2024,Consumer,Electronics,14,291.61,4082.54,PayPal,Texas
+ORD9042,05-07-2024,Small Business,Groceries,19,460.47,8748.93,Bank Transfer,Georgia
+ORD8106,17-10-2024,Home Office,Toys,19,150.51,2859.69,Cash,Washington
+ORD4081,25-03-2024,Consumer,Beauty,9,194.95,1754.55,PayPal,New York
+ORD6236,11-11-2024,Consumer,Beauty,7,389.91,2729.37,PayPal,New York
+ORD1462,08-05-2024,Corporate,Fashion,23,261.75,6020.25,Cash,New York
+ORD8739,30-04-2024,Home Office,Fashion,4,494.5,1978,Credit Card,Nevada
+ORD6782,12-02-2024,Corporate,Toys,13,129.42,1682.46,Cash,Illinois
+ORD2678,13-07-2024,Corporate,Books,22,413.23,9091.06,Bitcoin,Illinois
+ORD6009,11-01-2023,Home Office,Furniture,3,394.37,1183.11,Credit Card,Nevada
+ORD3538,10-03-2023,Corporate,Books,13,119.64,1555.32,Bank Transfer,Nevada
+ORD2788,18-08-2024,Home Office,Toys,2,477.82,955.64,Cash,Texas
+ORD4137,14-12-2024,Home Office,Books,5,188.85,944.25,Cash,California
+ORD2807,11-06-2024,Small Business,Books,23,137.37,3159.51,Debit Card,New York
+ORD9696,29-03-2024,Small Business,Groceries,23,331.69,7628.87,PayPal,Georgia
+ORD5889,05-07-2023,Consumer,Sports,23,277.14,6374.22,Bank Transfer,Texas
+ORD9046,26-10-2023,Corporate,Furniture,25,148.69,3717.25,Bank Transfer,Florida
+ORD5893,10-10-2024,Small Business,Groceries,19,414.39,7873.41,Cash,Nevada
+ORD4863,13-01-2023,Small Business,Fashion,3,272.05,816.15,Bank Transfer,Georgia
+ORD5181,04-02-2023,Corporate,Beauty,6,487.09,2922.54,Credit Card,Florida
+ORD5057,31-05-2024,Home Office,Beauty,6,333.34,2000.04,Cash,Georgia
+ORD8516,22-01-2024,Corporate,Fashion,5,88.14,440.7,PayPal,Nevada
+ORD2097,30-08-2024,Small Business,Furniture,5,129.2,646,Cash,California
+ORD4082,27-09-2023,Home Office,Beauty,1,380.05,380.05,Cash,Illinois
+ORD5584,09-08-2024,Corporate,Groceries,19,446.88,8490.72,Debit Card,Nevada
+ORD5421,14-05-2023,Corporate,Books,15,274.91,4123.65,Bank Transfer,Texas
+ORD8981,17-05-2023,Consumer,Groceries,8,477.13,3817.04,PayPal,Texas
+ORD8442,03-05-2024,Consumer,Electronics,18,314.41,5659.38,Debit Card,Washington
+ORD3218,25-04-2024,Small Business,Sports,16,219.63,3514.08,Credit Card,California
+ORD6723,02-12-2024,Corporate,Beauty,13,341.06,4433.78,Debit Card,Georgia
+ORD7340,22-09-2024,Home Office,Books,25,39.47,986.75,PayPal,Nevada
+ORD1914,20-07-2024,Corporate,Electronics,3,215.06,645.18,Bitcoin,Georgia
+ORD2708,26-02-2024,Small Business,Toys,5,262.71,1313.55,Debit Card,Georgia
+ORD4105,05-12-2023,Home Office,Beauty,15,366.54,5498.1,Debit Card,Nevada
+ORD7259,25-11-2024,Corporate,Electronics,18,350.91,6316.38,Bitcoin,California
+ORD8349,11-03-2023,Small Business,Electronics,8,30.53,244.24,Bank Transfer,Georgia
+ORD3124,09-07-2024,Small Business,Furniture,24,471.14,11307.36,Bitcoin,California
+ORD9777,15-03-2024,Corporate,Groceries,5,456.9,2284.5,Bitcoin,Illinois
+ORD8407,28-03-2023,Consumer,Beauty,1,425.99,425.99,Debit Card,Georgia
+ORD4474,08-01-2023,Corporate,Furniture,16,93.76,1500.16,Cash,Texas
+ORD5431,26-09-2023,Small Business,Sports,5,246.4,1232,Bank Transfer,Nevada
+ORD9686,05-08-2024,Consumer,Books,25,106.06,2651.5,PayPal,Nevada
+ORD5118,29-07-2023,Home Office,Electronics,6,144.57,867.42,Credit Card,Illinois
+ORD3400,11-08-2023,Consumer,Electronics,11,369.73,4067.03,Bank Transfer,New York
+ORD6430,13-04-2024,Consumer,Furniture,18,390.79,7034.22,PayPal,Georgia
+ORD3857,10-05-2023,Home Office,Furniture,10,162.82,1628.2,Debit Card,Texas
+ORD2635,03-04-2023,Small Business,Books,25,447.13,11178.25,Bitcoin,Texas
+ORD7692,27-11-2024,Consumer,Groceries,15,236.62,3549.3,Bitcoin,Florida
+ORD1820,19-03-2024,Home Office,Toys,12,288.08,3456.96,Bitcoin,Washington
+ORD5222,20-09-2024,Corporate,Sports,20,190.35,3807,Debit Card,Washington
+ORD9179,05-05-2024,Consumer,Toys,5,493.05,2465.25,Bank Transfer,Texas
+ORD3259,01-11-2023,Small Business,Furniture,10,145.01,1450.1,Bitcoin,Texas
+ORD8152,17-10-2024,Home Office,Fashion,9,334.74,3012.66,Bank Transfer,Texas
+ORD7207,20-02-2023,Corporate,Toys,9,18.94,170.46,Bank Transfer,Washington
+ORD8845,23-12-2023,Home Office,Books,21,264.15,5547.15,PayPal,Nevada
+ORD1946,25-11-2024,Consumer,Beauty,7,305.63,2139.41,Debit Card,Texas
+ORD6680,27-10-2023,Consumer,Books,9,128.28,1154.52,Debit Card,Nevada
+ORD3739,10-05-2024,Consumer,Beauty,4,437.01,1748.04,Bank Transfer,Nevada
+ORD9661,23-10-2023,Small Business,Toys,5,217.26,1086.3,Cash,Florida
+ORD8244,09-06-2024,Corporate,Books,6,354.7,2128.2,Bank Transfer,Texas
+ORD9632,06-07-2023,Home Office,Fashion,16,284.59,4553.44,Cash,Texas
+ORD7641,16-02-2023,Corporate,Electronics,24,112.5,2700,Debit Card,Illinois
+ORD2883,23-04-2023,Corporate,Groceries,23,41.99,965.77,Cash,California
+ORD4632,03-09-2024,Small Business,Furniture,20,133.41,2668.2,Bitcoin,New York
+ORD4563,05-07-2023,Small Business,Sports,25,170.42,4260.5,Credit Card,Washington
+ORD5247,25-03-2024,Small Business,Electronics,1,369.49,369.49,Bank Transfer,Texas
+ORD3604,01-07-2023,Corporate,Toys,11,99.3,1092.3,Cash,Georgia
+ORD5654,30-06-2023,Corporate,Toys,18,178.19,3207.42,Bank Transfer,New York
+ORD1271,01-04-2024,Consumer,Books,17,67.13,1141.21,Debit Card,Washington
+ORD1912,20-06-2023,Small Business,Toys,8,8.02,64.16,PayPal,Nevada
+ORD9669,16-04-2024,Consumer,Groceries,25,483.27,12081.75,Debit Card,Illinois
+ORD9380,29-08-2024,Home Office,Beauty,24,485.88,11661.12,PayPal,Washington
+ORD9594,04-12-2023,Consumer,Groceries,21,28.86,606.06,Bitcoin,Illinois
+ORD3971,04-01-2024,Consumer,Fashion,3,159.09,477.27,Credit Card,Washington
+ORD8856,13-02-2023,Corporate,Beauty,15,211.99,3179.85,Debit Card,Georgia
+ORD9491,03-03-2023,Corporate,Electronics,12,308.22,3698.64,Debit Card,New York
+ORD1831,07-01-2023,Home Office,Beauty,17,313.64,5331.88,PayPal,California
+ORD4515,02-12-2024,Home Office,Toys,20,352.7,7054,Bitcoin,Washington
+ORD9131,06-11-2024,Corporate,Beauty,12,52.71,632.52,Bitcoin,Florida
+ORD1819,31-03-2023,Consumer,Books,10,47.79,477.9,Debit Card,Georgia
+ORD9602,04-06-2024,Consumer,Beauty,24,236.07,5665.68,Debit Card,New York
+ORD7663,09-10-2023,Small Business,Sports,15,35.47,532.05,Debit Card,Texas
+ORD8026,04-04-2023,Consumer,Toys,5,466.08,2330.4,Debit Card,Nevada
+ORD2789,04-12-2024,Corporate,Toys,17,237.12,4031.04,Bank Transfer,New York
+ORD5799,20-04-2024,Corporate,Fashion,5,106.87,534.35,Credit Card,Illinois
+ORD6548,12-09-2023,Corporate,Toys,24,47.5,1140,Cash,Georgia
+ORD3314,19-11-2023,Corporate,Furniture,11,339.84,3738.24,Bitcoin,Washington
+ORD6645,12-03-2023,Home Office,Books,21,276.1,5798.1,Cash,Texas
+ORD3933,10-08-2023,Home Office,Furniture,17,47.32,804.44,Debit Card,California
+ORD1961,09-08-2023,Small Business,Groceries,14,170.02,2380.28,Cash,Texas
+ORD6485,27-08-2023,Corporate,Groceries,1,80.85,80.85,Debit Card,Georgia
+ORD1967,16-04-2023,Consumer,Fashion,9,371.83,3346.47,PayPal,Texas
+ORD5925,14-05-2024,Corporate,Toys,24,252.55,6061.2,Debit Card,Washington
+ORD4353,08-12-2023,Corporate,Groceries,9,86.29,776.61,Credit Card,Nevada
+ORD1505,15-01-2024,Home Office,Toys,22,428.17,9419.74,Cash,New York
+ORD1547,20-05-2023,Home Office,Fashion,12,308.16,3697.92,Bitcoin,Illinois
+ORD9368,15-07-2023,Corporate,Toys,12,324.22,3890.64,PayPal,Georgia
+ORD3628,12-01-2024,Small Business,Books,12,7.69,92.28,Bitcoin,New York
+ORD1949,26-02-2023,Home Office,Beauty,3,338.37,1015.11,Cash,New York
+ORD6566,20-08-2024,Corporate,Groceries,8,88.62,708.96,Bank Transfer,California
+ORD6825,29-06-2023,Home Office,Beauty,6,24.24,145.44,Bitcoin,Texas
+ORD2182,20-12-2024,Consumer,Fashion,4,498.75,1995,Debit Card,Illinois
+ORD2159,22-06-2024,Small Business,Furniture,2,358.36,716.72,Cash,New York
+ORD8780,10-05-2023,Small Business,Fashion,17,492.33,8369.61,Bank Transfer,Washington
+ORD8733,11-06-2024,Consumer,Furniture,22,488,10736,Bank Transfer,Florida
+ORD9040,25-06-2024,Consumer,Beauty,18,196.43,3535.74,PayPal,Georgia
+ORD1406,11-07-2023,Consumer,Groceries,1,23.41,23.41,Debit Card,Washington
+ORD7545,12-10-2024,Consumer,Electronics,19,274.77,5220.63,Credit Card,Nevada
+ORD5161,04-06-2024,Consumer,Beauty,21,341.01,7161.21,Credit Card,Florida
+ORD9689,02-03-2023,Corporate,Fashion,25,374.06,9351.5,Bank Transfer,Illinois
+ORD8581,26-10-2023,Small Business,Sports,24,234.93,5638.32,Credit Card,California
+ORD9308,21-11-2023,Home Office,Electronics,21,380.26,7985.46,Cash,Washington
+ORD1212,10-04-2023,Corporate,Beauty,16,286.25,4580,Bank Transfer,Florida
+ORD1768,23-02-2024,Consumer,Toys,15,264.72,3970.8,Cash,New York
+ORD4403,17-12-2024,Corporate,Fashion,19,63.69,1210.11,Cash,Georgia
+ORD9316,10-08-2023,Consumer,Groceries,20,374.78,7495.6,Bank Transfer,Georgia
+ORD7566,01-01-2023,Consumer,Beauty,21,363.23,7627.83,Bitcoin,Georgia
+ORD6135,19-05-2023,Small Business,Beauty,2,207.51,415.02,Debit Card,Washington
+ORD1209,04-09-2024,Corporate,Sports,3,431.15,1293.45,Debit Card,California
+ORD3641,26-07-2024,Corporate,Electronics,3,191.57,574.71,Cash,Georgia
+ORD1097,18-01-2024,Corporate,Beauty,8,252.39,2019.12,Bank Transfer,New York
+ORD5279,27-12-2024,Small Business,Groceries,6,390.06,2340.36,PayPal,Georgia
+ORD3056,18-11-2024,Small Business,Fashion,6,114.8,688.8,Bank Transfer,New York
+ORD4764,28-02-2024,Corporate,Groceries,9,402.07,3618.63,Cash,Nevada
+ORD6015,02-03-2024,Consumer,Fashion,7,171.78,1202.46,Credit Card,Illinois
+ORD8237,12-06-2024,Corporate,Beauty,12,145.73,1748.76,Cash,Georgia
+ORD8162,25-08-2023,Consumer,Books,9,478.02,4302.18,Bitcoin,Florida
+ORD2485,03-04-2024,Small Business,Sports,16,307.27,4916.32,Bitcoin,California
+ORD3598,25-01-2024,Small Business,Toys,20,91.81,1836.2,Bank Transfer,New York
+ORD6952,13-04-2024,Consumer,Furniture,25,259.98,6499.5,Bitcoin,Texas
+ORD4916,31-01-2024,Home Office,Toys,21,167.27,3512.67,Debit Card,California
+ORD2645,16-01-2024,Home Office,Furniture,5,284.65,1423.25,Cash,California
+ORD2447,18-01-2023,Consumer,Groceries,15,169.35,2540.25,Bitcoin,Nevada
+ORD5557,26-02-2024,Home Office,Furniture,12,444.49,5333.88,Debit Card,California
+ORD5487,25-02-2024,Small Business,Books,20,242.47,4849.4,Debit Card,Texas
+ORD2608,11-05-2023,Small Business,Books,24,390.16,9363.84,Debit Card,Georgia
+ORD2879,04-03-2023,Corporate,Books,7,113.71,795.97,Bitcoin,Florida
+ORD8633,27-02-2024,Corporate,Books,22,140.32,3087.04,Bank Transfer,Illinois
+ORD9817,05-04-2024,Small Business,Toys,17,63.27,1075.59,Credit Card,Texas
+ORD6048,15-10-2023,Small Business,Fashion,23,312.43,7185.89,Debit Card,Illinois
+ORD8847,10-09-2023,Consumer,Electronics,24,203.98,4895.52,Credit Card,Georgia
+ORD6954,28-04-2024,Home Office,Sports,20,331.23,6624.6,PayPal,California
+ORD8242,14-10-2023,Home Office,Books,3,289.87,869.61,Credit Card,Texas
+ORD8605,31-12-2023,Small Business,Fashion,10,386.1,3861,Cash,Illinois
+ORD1561,17-11-2023,Consumer,Groceries,9,77.02,693.18,Bitcoin,California
+ORD1712,03-03-2023,Home Office,Groceries,11,99.97,1099.67,Bitcoin,New York
+ORD5849,14-08-2024,Consumer,Sports,17,71.42,1214.14,Bitcoin,New York
+ORD9905,25-05-2023,Consumer,Fashion,13,306.62,3986.06,Bitcoin,California
+ORD1034,11-02-2024,Corporate,Beauty,5,371.65,1858.25,Bitcoin,New York
+ORD1497,09-08-2023,Small Business,Books,17,14.36,244.12,Bank Transfer,Florida
+ORD8019,06-12-2024,Consumer,Fashion,16,200.76,3212.16,Cash,California
+ORD6314,06-03-2023,Corporate,Beauty,13,146.26,1901.38,PayPal,Washington
+ORD9305,30-10-2023,Consumer,Beauty,7,495.14,3465.98,Bitcoin,Washington
+ORD8975,16-03-2024,Small Business,Furniture,15,83.37,1250.55,Credit Card,Georgia
+ORD7282,22-07-2023,Small Business,Beauty,7,83.49,584.43,Credit Card,Texas
+ORD7732,28-07-2023,Small Business,Sports,20,231.09,4621.8,Bitcoin,Florida
+ORD9439,21-09-2024,Small Business,Sports,7,485.71,3399.97,Debit Card,Florida
+ORD1885,03-03-2024,Small Business,Electronics,16,244.68,3914.88,Debit Card,California
+ORD5369,14-09-2024,Small Business,Toys,1,267.69,267.69,PayPal,Texas
+ORD3035,08-08-2023,Small Business,Electronics,22,78.07,1717.54,Debit Card,Washington
+ORD5591,19-10-2024,Corporate,Fashion,24,218.24,5237.76,Credit Card,New York
+ORD5880,12-07-2024,Home Office,Sports,18,128.15,2306.7,Bank Transfer,Texas
+ORD8613,05-04-2024,Consumer,Fashion,5,119.94,599.7,Bitcoin,Texas
+ORD4498,06-11-2024,Small Business,Fashion,3,426.12,1278.36,Bank Transfer,Florida
+ORD1787,05-10-2023,Consumer,Books,16,310.27,4964.32,Debit Card,Illinois
+ORD4547,05-07-2024,Home Office,Toys,6,408.01,2448.06,Credit Card,Nevada
+ORD1336,13-08-2024,Corporate,Fashion,7,196.33,1374.31,Credit Card,New York
+ORD8974,14-01-2024,Home Office,Beauty,16,305.01,4880.16,PayPal,Illinois
+ORD8641,03-12-2023,Consumer,Groceries,5,14.4,72,Bitcoin,Nevada
+ORD2183,25-01-2023,Home Office,Toys,11,221.18,2432.98,Cash,Illinois
+ORD7592,11-02-2023,Corporate,Beauty,1,355.98,355.98,Bank Transfer,Texas
+ORD9306,03-10-2024,Home Office,Furniture,12,281.45,3377.4,Credit Card,Illinois
+ORD7213,20-07-2024,Consumer,Books,13,134.56,1749.28,Bank Transfer,Illinois
+ORD2771,11-06-2023,Small Business,Sports,21,176.36,3703.56,PayPal,Illinois
+ORD8358,18-03-2024,Home Office,Sports,9,263.96,2375.64,Credit Card,Georgia
+ORD4606,29-06-2024,Home Office,Groceries,25,405.91,10147.75,Bank Transfer,Florida
+ORD8601,16-10-2024,Small Business,Toys,22,50.12,1102.64,Debit Card,Texas
+ORD9670,22-08-2024,Home Office,Electronics,12,304.64,3655.68,PayPal,Illinois
+ORD1948,06-07-2024,Consumer,Sports,19,276.3,5249.7,Debit Card,Nevada
+ORD3103,14-09-2023,Corporate,Books,9,387.2,3484.8,Credit Card,Illinois
+ORD6708,06-01-2024,Corporate,Sports,19,90.69,1723.11,Bank Transfer,New York
+ORD7459,28-03-2023,Consumer,Beauty,24,465.41,11169.84,Cash,Illinois
+ORD5028,06-09-2024,Corporate,Electronics,11,372.98,4102.78,Debit Card,New York
+ORD8214,15-06-2024,Small Business,Fashion,25,424.73,10618.25,PayPal,Florida
+ORD2155,24-05-2023,Corporate,Fashion,21,376.42,7904.82,Cash,Nevada
+ORD9129,26-08-2023,Consumer,Electronics,10,200.65,2006.5,Cash,California
+ORD4781,25-01-2023,Consumer,Fashion,8,63.01,504.08,Bank Transfer,Georgia
+ORD9457,08-01-2024,Corporate,Toys,21,61.02,1281.42,Debit Card,Georgia
+ORD2698,29-07-2024,Corporate,Beauty,9,178.8,1609.2,Bank Transfer,California
+ORD8937,08-07-2024,Consumer,Electronics,25,221.84,5546,Bank Transfer,New York
+ORD3994,27-08-2023,Consumer,Sports,2,262,524,PayPal,Texas
+ORD2566,12-11-2023,Corporate,Sports,8,329.28,2634.24,Debit Card,Washington
+ORD1504,10-04-2024,Consumer,Fashion,2,239.36,478.72,PayPal,Georgia
+ORD9837,05-02-2023,Small Business,Sports,19,93.86,1783.34,Debit Card,Illinois
+ORD9846,30-08-2024,Home Office,Fashion,4,283.16,1132.64,PayPal,Illinois
+ORD6593,19-11-2023,Consumer,Groceries,11,433.16,4764.76,Bitcoin,Georgia
+ORD1158,18-06-2023,Consumer,Beauty,4,119.56,478.24,Bank Transfer,Nevada
+ORD4997,07-05-2023,Home Office,Sports,19,37.76,717.44,Debit Card,Washington
+ORD7715,02-01-2023,Corporate,Books,12,447.32,5367.84,Bitcoin,Washington
+ORD4000,07-01-2023,Home Office,Books,8,117.71,941.68,PayPal,Nevada
+ORD9742,20-02-2024,Home Office,Books,8,253.4,2027.2,Cash,Washington
+ORD9327,18-08-2024,Small Business,Beauty,18,18.94,340.92,Bank Transfer,Georgia
+ORD9094,17-06-2023,Small Business,Furniture,16,31.23,499.68,Debit Card,Florida
+ORD6790,19-04-2024,Consumer,Toys,21,347.63,7300.23,Bitcoin,Florida
+ORD5069,13-07-2024,Home Office,Books,16,81.07,1297.12,Debit Card,Florida
+ORD1262,10-09-2023,Corporate,Electronics,16,238.5,3816,Bitcoin,Nevada
+ORD1518,27-12-2023,Small Business,Beauty,18,306.1,5509.8,Bitcoin,Texas
+ORD7125,12-11-2024,Small Business,Sports,23,299.44,6887.12,Debit Card,Florida
+ORD8647,10-02-2024,Home Office,Groceries,9,297.28,2675.52,Bank Transfer,California
+ORD7968,13-01-2024,Corporate,Furniture,10,24.11,241.1,Bank Transfer,Washington
+ORD3955,03-10-2023,Small Business,Furniture,6,384.17,2305.02,PayPal,Illinois
+ORD7657,23-06-2023,Consumer,Beauty,3,248.78,746.34,Cash,Georgia
+ORD9443,12-08-2023,Small Business,Beauty,6,124.12,744.72,PayPal,Texas
+ORD1752,28-06-2023,Home Office,Beauty,23,306.66,7053.18,Cash,Florida
+ORD3029,31-08-2023,Corporate,Toys,18,13.23,238.14,Bitcoin,Georgia
+ORD8742,15-01-2023,Small Business,Groceries,13,270.4,3515.2,Bank Transfer,New York
+ORD6737,25-07-2024,Home Office,Beauty,2,85.29,170.58,Cash,Washington
+ORD7837,21-12-2024,Consumer,Beauty,14,496.45,6950.3,Cash,Nevada
+ORD1706,03-06-2023,Home Office,Electronics,17,78.82,1339.94,PayPal,New York
+ORD2460,25-04-2023,Small Business,Fashion,11,66.3,729.3,PayPal,Texas
+ORD8959,30-11-2024,Consumer,Sports,12,38.34,460.08,Debit Card,New York
+ORD9526,03-03-2023,Home Office,Furniture,3,326.39,979.17,Bank Transfer,New York
+ORD7508,04-01-2023,Small Business,Fashion,21,456.49,9586.29,PayPal,Washington
+ORD2154,30-12-2024,Consumer,Groceries,9,481.86,4336.74,Bitcoin,Illinois
+ORD1465,16-11-2024,Corporate,Books,2,264.76,529.52,Debit Card,Texas
+ORD1958,14-07-2024,Small Business,Groceries,10,239.94,2399.4,Cash,Georgia
+ORD3460,03-06-2023,Corporate,Groceries,11,235.81,2593.91,Credit Card,Nevada
+ORD1560,01-12-2024,Consumer,Groceries,9,394.63,3551.67,Cash,California
+ORD1759,21-03-2024,Corporate,Furniture,22,130.33,2867.26,Bitcoin,California
+ORD4984,20-07-2024,Home Office,Furniture,4,160.17,640.68,Bank Transfer,California
+ORD5143,29-08-2023,Corporate,Fashion,4,294.73,1178.92,Cash,Texas
+ORD2986,03-04-2023,Consumer,Groceries,1,417.07,417.07,Cash,Washington
+ORD2749,11-05-2024,Home Office,Beauty,2,88.52,177.04,Cash,Georgia
+ORD4651,24-12-2024,Corporate,Fashion,22,166.53,3663.66,Bank Transfer,Nevada
+ORD6953,06-05-2024,Consumer,Books,2,406.92,813.84,Debit Card,Georgia
+ORD6681,10-04-2023,Corporate,Fashion,15,143.5,2152.5,PayPal,Florida
+ORD7978,28-02-2023,Corporate,Sports,17,253.96,4317.32,Bitcoin,New York
+ORD8300,08-09-2024,Consumer,Toys,11,183.9,2022.9,Bank Transfer,Georgia
+ORD3520,24-05-2024,Consumer,Electronics,7,409.64,2867.48,Bank Transfer,Florida
